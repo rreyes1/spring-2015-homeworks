@@ -1,0 +1,817 @@
+,RR,Month,Day,TA,Incident,Type,Job,Condition,Event,St,County,Age,Long,Lat
+5,BNSF,January,1,3,SW0114100,Trespasser,,Fatality,Struck by on-track equipment,NM,CIBOLA,,-107.41,35.04
+9,NJTR,January,1,3,201401002,Trespasser,,Fatality,Struck by on-track equipment,NJ,UNION,23.0,-74.38,40.64
+15,ATK,January,2,2,131161,Trespasser,,Fatality,Highway-rail collision/impact,NC,WAKE,21.0,-78.8,35.77
+35,NJTR,January,2,3,201401007,Trespasser,,Fatality,Struck by on-track equipment,NJ,UNION,56.0,-74.21,40.65
+43,UP,January,2,3,0114SA003,Trespasser,,Fatality,Struck by on-track equipment,TX,FRIO,37.0,-99.09,28.89
+50,ATK,January,3,3,131194,Trespasser,,Fatality,Struck by on-track equipment,CA,SAN DIEGO,75.0,-117.27,32.99
+79,OHCR,January,3,3,OHC494414T,Trespasser,,Fatality,Struck by on-track equipment,OH,MUSKINGUM,42.0,-82.01,39.94
+107,UP,January,4,3,0114RS001,Trespasser,,Fatality,Struck by on-track equipment,CA,SHASTA,51.0,-122.39,40.58
+118,CSX,January,5,3,124414,Trespasser,,Fatality,Struck by on-track equipment,OH,HURON,25.0,,
+119,CSX,January,5,2,124417,Nontrespasser,,Fatality,Highway-rail collision/impact,GA,MORGAN,49.0,,
+206,BNSF,January,8,2,PR0114202,Nontrespasser,,Fatality,Highway-rail collision/impact,WY,SHERIDAN,43.0,-106.49,44.5
+248,FEC,January,9,3,T02010914,Trespasser,,Fatality,Struck by on-track equipment,FL,PALM BEACH,48.0,-80.06,26.51
+258,SCAX,January,9,2,10914,Trespasser,,Fatality,Highway-rail collision/impact,CA,LOS ANGELES,23.0,,
+281,CSX,January,10,2,124671,Trespasser,,Fatality,Highway-rail collision/impact,KY,CHRISTIAN,24.0,,
+302,NS,January,10,2,108517,Nontrespasser,,Fatality,Highway-rail collision/impact,GA,COOK,60.0,-83.43,31.16
+303,NS,January,10,3,108552,Trespasser,,Fatality,Struck by on-track equipment,PA,BEAVER,22.0,-80.33,40.79
+309,SFRV,January,10,2,11014,Trespasser,,Fatality,Highway-rail collision/impact,FL,MIAMI-DADE,,,
+331,SCAX,January,11,3,11114,Trespasser,,Fatality,Other impacts - on track equipment,CA,LOS ANGELES,49.0,,
+336,ATK,January,12,3,131314,Trespasser,,Fatality,Struck by on-track equipment,NC,DURHAM,23.0,-78.95,36.02
+337,ATK,January,12,3,131316,Trespasser,,Fatality,Struck by on-track equipment,NC,GUILFORD,36.0,-79.87,36.05
+345,CSX,January,12,3,124978,Trespasser,,Fatality,Other (describe in narrative),NC,UNION,37.0,,
+347,LI,January,12,3,TS20140101,Trespasser,,Fatality,Struck by on-track equipment,NY,QUEENS,,-73.73,40.71
+349,SFRV,January,12,3,11214,Trespasser,,Fatality,Struck by on-track equipment,FL,BROWARD,,,
+356,ATK,January,13,2,131308,Trespasser,,Fatality,Highway-rail collision/impact,CA,FRESNO,19.0,-119.79,36.76
+378,ATK,January,14,3,131331,Trespasser,,Fatality,Struck by on-track equipment,CA,ORANGE,60.0,-117.86,33.79
+393,NIRC,January,14,2,RIH025,Trespasser,,Fatality,Highway-rail collision/impact,IL,COOK,41.0,-87.69,41.64
+394,NJTR,January,14,3,201401029,Trespasser,,Fatality,Struck by on-track equipment,NJ,MONMOUTH,24.0,-74.17,40.41
+404,UP,January,14,2,0114LK011,Nontrespasser,,Fatality,Highway-rail collision/impact,AR,PRAIRIE,59.0,-91.46,34.56
+428,VREX,January,15,3,1152014,Trespasser,,Fatality,Struck by on-track equipment,VA,FAIRFAX,22.0,,
+467,CSX,January,17,3,124941,Trespasser,,Fatality,Struck by on-track equipment,MS,HARRISON,22.0,,
+481,SEPA,January,17,2,15150,Trespasser,,Fatality,Highway-rail collision/impact,PA,BUCKS,47.0,-75.09,40.2
+485,VTAZ,January,17,2,1401170734,Nontrespasser,,Fatality,Highway-rail collision/impact,CA,SANTA CLARA,14.0,-121.92,37.3
+486,ATK,January,18,3,131416,Trespasser,,Fatality,Struck by on-track equipment,KS,SHAWNEE,,-95.67,39.03
+487,ATK,January,18,3,131417,Trespasser,,Fatality,Struck by on-track equipment,WA,KING,43.0,-122.48,47.28
+501,UP,January,18,2,0114SA011,Trespasser,,Fatality,Highway-rail collision/impact,TX,CALDWELL,50.0,-97.65,29.68
+514,CSX,January,19,3,125085,Trespasser,,Fatality,Struck by on-track equipment,NY,OSWEGO,55.0,,
+533,NSCR,January,20,3,NS2014001,Trespasser,,Fatality,Struck by on-track equipment,MN,SHERBURNE,51.0,-93.63,45.32
+534,PCMZ,January,20,3,20140120E,Trespasser,,Fatality,Struck by on-track equipment,CA,SANTA CLARA,,-121.93,37.35
+547,ACEX,January,21,3,A01212014,Trespasser,,Fatality,Struck by on-track equipment,CA,SAN JOAQUIN,,-121.77,37.68
+556,ATK,January,21,2,131444,Trespasser,,Fatality,Highway-rail collision/impact,CA,SAN DIEGO,45.0,-117.17,32.72
+561,BNSF,January,21,2,SF0114200,Nontrespasser,,Fatality,Highway-rail collision/impact,OK,WOODS,53.0,-98.6,36.68
+578,UP,January,21,3,0114LK022,Trespasser,,Fatality,"Slipped, fell, stumbled, other",AR,PULASKI,46.0,-92.28,34.75
+588,CSX,January,22,3,125105,Trespasser,,Fatality,Struck by on-track equipment,FL,MARION,22.0,,
+601,NIRC,January,22,2,MRH019,Trespasser,,Fatality,Highway-rail collision/impact,IL,LAKE,7.0,-88.1,42.35
+602,NIRC,January,22,2,MRH019,Trespasser,,Fatality,Highway-rail collision/impact,IL,LAKE,36.0,-88.1,42.35
+623,ATK,January,23,2,131456,Trespasser,,Fatality,Highway-rail collision/impact,CA,FRESNO,34.0,-119.82,36.79
+657,ATK,January,24,2,131479,Trespasser,,Fatality,Highway-rail collision/impact,CA,SACRAMENTO,38.0,-121.4,38.51
+668,IC,January,24,2,802952,Nontrespasser,,Fatality,Highway-rail collision/impact,IL,ST CLAIR,33.0,-89.91,38.43
+680,UP,January,24,2,0114PD012,Trespasser,,Fatality,Highway-rail collision/impact,OR,LINN,18.0,-123.1,44.62
+690,CSX,January,25,3,125235,Trespasser,,Fatality,Struck by on-track equipment,MS,HARRISON,28.0,,
+691,KCS,January,25,2,14012501,Trespasser,,Fatality,Highway-rail collision/impact,TX,HARRIS,30.0,-95.49,29.63
+712,NS,January,26,3,108847,Trespasser,,Fatality,Struck by on-track equipment,IN,PORTER,49.0,-87.07,41.61
+720,UP,January,26,3,0114NP026,Trespasser,,Fatality,Struck by on-track equipment,NE,THAYER,22.0,-97.55,40.25
+762,BNSF,January,28,2,KS0114201,Trespasser,,Fatality,Highway-rail collision/impact,KS,SEDGWICK,,-97.32,37.66
+764,BNSF,January,28,2,SF0114201,Trespasser,,Fatality,Highway-rail collision/impact,OK,TULSA,46.0,-95.99,36.15
+767,BNSF,January,28,2,TC0114203,Nontrespasser,,Fatality,Highway-rail collision/impact,MN,GRANT,48.0,-96.14,45.8
+778,NS,January,28,2,108788,Nontrespasser,,Fatality,Highway-rail collision/impact,AL,TUSCALOOSA,39.0,-87.41,33.17
+779,NS,January,28,2,108788,Nontrespasser,,Fatality,Highway-rail collision/impact,AL,TUSCALOOSA,57.0,-87.41,33.17
+780,NS,January,28,2,108788,Nontrespasser,,Fatality,Highway-rail collision/impact,AL,TUSCALOOSA,58.0,-87.41,33.17
+799,BPRR,January,29,2,BPR507814G,Nontrespasser,,Fatality,Highway-rail collision/impact,PA,CLEARFIELD,89.0,-78.75,41.12
+829,SCAX,January,30,3,13014,Trespasser,,Fatality,Struck by on-track equipment,CA,LOS ANGELES,,,
+844,NS,January,31,3,108960,Trespasser,,Fatality,Struck by on-track equipment,OH,PICKAWAY,34.0,-82.96,39.74
+847,PCMZ,January,31,3,20140131A,Trespasser,,Fatality,Struck by on-track equipment,CA,SAN MATEO,,-122.23,37.48
+864,ATK,February,2,3,131581,Trespasser,,Fatality,Struck by on-track equipment,CA,VENTURA,24.0,-119.17,34.21
+884,OTVR,February,2,2,OTV508814G,Nontrespasser,,Fatality,Highway-rail collision/impact,MN,CLAY,91.0,-96.64,46.77
+918,UP,February,3,3,0214LK004,Trespasser,,Fatality,Struck by on-track equipment,AR,PULASKI,75.0,-92.22,34.61
+919,UP,February,3,2,0214TC002,Nontrespasser,,Fatality,Highway-rail collision/impact,WI,ST CROIX,54.0,-92.49,44.98
+955,SCAX,February,4,2,20414,Trespasser,,Fatality,Highway-rail collision/impact,CA,LOS ANGELES,53.0,,
+970,BNSF,February,5,3,NE0214100,Trespasser,,Fatality,Struck by on-track equipment,NE,LANCASTER,36.0,-96.71,40.77
+973,CSX,February,5,3,125640,Trespasser,,Fatality,Struck by on-track equipment,FL,DUVAL,,,
+998,UP,February,5,2,0214TC004,Nontrespasser,,Fatality,Highway-rail collision/impact,WI,ST CROIX,69.0,-92.35,44.96
+1013,FEC,February,6,3,T05020614,Trespasser,,Fatality,Struck by on-track equipment,FL,MIAMI-DADE,39.0,-80.15,25.91
+1018,LI,February,6,3,TS20140201,Trespasser,,Fatality,Struck by on-track equipment,NY,NASSAU,77.0,-73.52,40.76
+1027,NIRC,February,6,2,MRH028,Trespasser,,Fatality,Highway-rail collision/impact,IL,COOK,44.0,-87.97,41.96
+1033,NS,February,6,3,109104,Trespasser,,Fatality,Struck by on-track equipment,OH,SENECA,34.0,-83.01,41.25
+1038,SFRV,February,6,3,206143,Trespasser,,Fatality,Other (describe in narrative),FL,BROWARD,22.0,,
+1050,CSX,February,7,3,125700,Trespasser,,Fatality,Struck by on-track equipment,OH,SUMMIT,,,
+1053,LI,February,7,3,TS20140202,Trespasser,,Fatality,Struck by on-track equipment,NY,NASSAU,52.0,-73.49,40.82
+1120,UP,February,9,3,0214RS012,Trespasser,,Fatality,"Slipped, fell, stumbled, other",NV,HUMBOLDT,50.0,-117.73,40.96
+1188,WC,February,11,2,804514,Trespasser,,Fatality,Highway-rail collision/impact,WI,RUSK,28.0,-91.07,45.41
+1230,CC,February,13,2,804715,Nontrespasser,,Fatality,Highway-rail collision/impact,IA,BUENA VISTA,2.0,-95.3,42.67
+1231,CC,February,13,2,804715,Nontrespasser,,Fatality,Highway-rail collision/impact,IA,BUENA VISTA,4.0,-95.3,42.67
+1251,UP,February,13,3,0214DV013,Trespasser,,Fatality,"Slipped, fell, stumbled, other",CO,ADAMS,40.0,-103.25,38.91
+1253,UP,February,13,3,0214PD009,Trespasser,,Fatality,Struck by on-track equipment,OR,GILLIAM,43.0,-122.43,45.54
+1269,NJTR,February,14,2,201402126,Trespasser,,Fatality,Highway-rail collision/impact,NJ,BERGEN,61.0,-74.13,40.96
+1271,NS,February,14,2,109126,Nontrespasser,,Fatality,Highway-rail collision/impact,IL,MACOUPIN,26.0,-89.7,39.09
+1292,CSX,February,15,2,126033,Nontrespasser,,Fatality,Highway-rail collision/impact,NC,SCOTLAND,68.0,,
+1293,GTW,February,15,2,804915,Nontrespasser,,Fatality,Highway-rail collision/impact,MI,GENESEE,67.0,-83.8,42.83
+1294,GTW,February,15,2,804915,Nontrespasser,,Fatality,Highway-rail collision/impact,MI,GENESEE,31.0,-83.8,42.83
+1295,KCS,February,15,2,14021502,Nontrespasser,,Fatality,Highway-rail collision/impact,AR,POLK,75.0,,
+1313,UP,February,15,3,0214SA006,Trespasser,,Fatality,Struck by on-track equipment,TX,TRAVIS,43.0,-97.73,30.38
+1327,BNSF,February,16,3,TC0214108,Trespasser,,Fatality,Struck by on-track equipment,MN,CROW WING,30.0,-94.18,46.35
+1335,UP,February,16,3,0214LA010,Trespasser,,Fatality,Struck by on-track equipment,CA,SAN BERNARDI,49.0,-117.3,34.06
+1339,ATK,February,17,3,131742,Psgr on trn,,Fatality,Other (describe in narrative),AZ,YAVAPAI,37.0,,
+1353,NS,February,17,2,109174,Nontrespasser,,Fatality,Highway-rail collision/impact,GA,APPLING,25.0,-82.37,31.78
+1356,NS,February,17,2,109174,Nontrespasser,,Fatality,Highway-rail collision/impact,GA,APPLING,55.0,-82.37,31.78
+1369,ACEX,February,18,3,A02182014,Trespasser,,Fatality,Other (describe in narrative),CA,ALAMEDA,,-121.78,37.68
+1423,BNSF,February,19,3,SF0214124,Trespasser,,Fatality,Struck by on-track equipment,MO,CHRISTIAN,15.0,-93.55,37.06
+1458,CSX,February,20,3,126259,Trespasser,,Fatality,Struck by on-track equipment,GA,WAYNE,27.0,,
+1468,KCS,February,20,2,14022002,Nontrespasser,,Fatality,Highway-rail collision/impact,LA,CADDO,50.0,,
+1541,NS,February,23,2,109309,Trespasser,,Fatality,Highway-rail collision/impact,KY,KENTON,48.0,-84.59,39.01
+1549,UP,February,23,3,0214TC025,Trespasser,,Fatality,Struck by on-track equipment,WI,CHIPPEWA,41.0,-91.38,44.92
+1602,UP,February,25,2,0214KC019,Nontrespasser,,Fatality,Highway-rail collision/impact,NE,OTOE,51.0,-95.87,40.64
+1607,WC,February,25,2,805829,Trespasser,,Fatality,Highway-rail collision/impact,WI,WOOD,62.0,-90.16,44.66
+1651,KCS,February,27,2,14022702,Nontrespasser,,Fatality,Highway-rail collision/impact,MS,SCOTT,71.0,,
+1675,NS,February,28,2,109393,Nontrespasser,,Fatality,Highway-rail collision/impact,AL,COOSA,51.0,-86.04,33.06
+1693,GTW,March,1,2,806192,Trespasser,,Fatality,Highway-rail collision/impact,MI,SHIAWASSEE,23.0,-84.21,42.82
+1698,NS,March,1,3,109430,Trespasser,,Fatality,Struck by on-track equipment,OH,BUTLER,38.0,-84.61,39.52
+1702,ATK,March,2,2,131932,Trespasser,,Fatality,Highway-rail collision/impact,FL,VOLUSIA,27.0,-81.49,29.31
+1706,BNSF,March,2,3,CA0314103,Trespasser,,Fatality,Struck by on-track equipment,CA,CONTRA COSTA,14.0,-122.11,37.99
+1712,NS,March,2,2,109414,Trespasser,,Fatality,Highway-rail collision/impact,IN,ST JOSEPH,60.0,-86.38,41.69
+1715,UP,March,2,3,0314FW001,Trespasser,,Fatality,Struck by on-track equipment,OK,BRYAN,20.0,-96.37,33.98
+1717,ATK,March,3,3,131928,Trespasser,,Fatality,Struck by on-track equipment,NC,DAVIDSON,18.0,-80.26,35.74
+1728,CC,March,3,2,806289,Nontrespasser,,Fatality,Highway-rail collision/impact,IA,DELAWARE,36.0,-91.27,42.48
+1747,ATK,March,4,3,131949,Trespasser,,Fatality,Struck by on-track equipment,CA,SAN DIEGO,35.0,-117.33,33.14
+1750,ATK,March,4,3,132333,Trespasser,,Fatality,Struck by on-track equipment,MD,BALTIMORE,71.0,-76.63,39.32
+1768,MRL,March,4,3,2014040,Trespasser,,Fatality,Struck by on-track equipment,MT,MISSOULA,34.0,-113.99,46.87
+1804,NS,March,5,3,109485,Trespasser,,Fatality,"Caught, crushed, pinched, other",GA,WILKINSON,59.0,-83.28,32.91
+1846,SCAX,March,7,3,30714,Trespasser,,Fatality,Struck by on-track equipment,CA,ORANGE,,,
+1849,TRE,March,7,3,2014001,Trespasser,,Fatality,Struck by on-track equipment,TX,DALLAS,40.0,-96.8,32.8
+1851,UP,March,7,3,0314RS003,Trespasser,,Fatality,Struck by on-track equipment,CA,FRESNO,49.0,-119.78,36.72
+1852,UP,March,7,2,0314RS008,Trespasser,,Fatality,Highway-rail collision/impact,CA,SACRAMENTO,14.0,-121.3,38.25
+1853,UPME,March,7,2,0314CM001,Trespasser,,Fatality,Highway-rail collision/impact,IL,COOK,17.0,-87.78,41.98
+1861,BNSF,March,8,2,TC0314200,Trespasser,,Fatality,Highway-rail collision/impact,MN,HENNEPIN,25.0,-93.71,45.02
+1871,UP,March,8,2,0314LV005,Nontrespasser,,Fatality,Highway-rail collision/impact,LA,CALCASIEU,14.0,-93.53,30.21
+1873,ATK,March,9,3,131973,Trespasser,,Fatality,Struck by on-track equipment,IL,LIVINGSTON,21.0,-88.63,40.88
+1879,NS,March,9,2,109530,Nontrespasser,,Fatality,Highway-rail collision/impact,OH,WAYNE,31.0,-82.08,40.66
+1881,NS,March,9,3,109534,Trespasser,,Fatality,Struck by on-track equipment,TN,ROANE,79.0,-84.53,35.94
+1886,UP,March,9,3,0314SL008,Trespasser,,Fatality,Struck by on-track equipment,IL,DOUGLAS,26.0,-88.27,39.79
+1908,MNCW,March,10,3,2014031003,RR Emp on duty,MOW & Struct.( No Signal),Fatality,Struck by on-track equipment,NY,NEW YORK,58.0,,
+1913,NIRC,March,10,3,RIH058,Trespasser,,Fatality,Struck by on-track equipment,IL,WILL,42.0,-87.97,41.51
+1915,NS,March,10,2,109552,Trespasser,,Fatality,Highway-rail collision/impact,AL,CLARKE,61.0,-87.77,31.54
+1916,NS,March,10,3,109554,Trespasser,,Fatality,Struck by on-track equipment,MO,ST CHARLES,22.0,-90.69,38.81
+1923,UP,March,10,2,0314WH003,Nontrespasser,,Fatality,Highway-rail collision/impact,OK,GRANT,24.0,-97.72,36.81
+1924,ATK,March,11,3,131998,Trespasser,,Fatality,Struck by on-track equipment,ME,YORK,43.0,-70.38,43.5
+1932,CSX,March,11,3,127098,Trespasser,,Fatality,Struck by on-track equipment,TN,DAVIDSON,53.0,,
+1973,FEC,March,12,3,T07031214,Trespasser,,Fatality,Struck by on-track equipment,FL,MIAMI-DADE,18.0,-80.14,25.95
+2015,NS,March,13,3,109624,Trespasser,,Fatality,Other (describe in narrative),IL,SANGAMON,19.0,-89.64,39.78
+2052,UP,March,14,3,0314LV011,Trespasser,,Fatality,Struck by on-track equipment,TX,ORANGE,60.0,-93.75,30.09
+2064,PCMZ,March,15,3,20140314D,Trespasser,,Fatality,Struck by on-track equipment,CA,SAN MATEO,,-122.19,37.46
+2086,BNSF,March,17,3,CA0314012,Nontrespasser,,Fatality,Struck against object,CA,SAN DIEGO,,-117.16,32.71
+2103,SEPA,March,17,3,Y1403005,Trespasser,,Fatality,Struck by on-track equipment,PA,PHILADELPHIA,,-75.27,40.0
+2109,UP,March,17,3,0314ST011,Trespasser,,Fatality,Sudden/unexpected movement of on-track equipment,NM,DONA ANA,25.0,-110.91,32.18
+2127,TRE,March,18,3,2014002,Trespasser,,Fatality,Struck by on-track equipment,TX,DALLAS,54.0,-96.83,32.8
+2157,UP,March,19,3,0314FW020,Trespasser,,Fatality,Struck by on-track equipment,OK,ATOKA,58.0,-96.15,34.31
+2159,UP,March,19,2,0314LK020,Nontrespasser,,Fatality,Highway-rail collision/impact,AR,WHITE,58.0,-91.66,35.23
+2165,BNSF,March,20,2,KS0314204,Trespasser,,Fatality,Highway-rail collision/impact,TX,RANDALL,15.0,-101.87,35.07
+2169,GDLK,March,20,2,X712114,Nontrespasser,,Fatality,Highway-rail collision/impact,MI,ST JOSEPH,77.0,-85.66,41.78
+2177,NS,March,20,3,109694,Trespasser,,Fatality,Struck by on-track equipment,OH,SUMMIT,43.0,-81.33,41.18
+2208,UP,March,21,3,0314RS020,Trespasser,,Fatality,Struck by on-track equipment,CA,YUBA,16.0,-121.58,39.15
+2209,UP,March,21,3,0314WH007,Trespasser,,Fatality,Struck by on-track equipment,AR,JOHNSON,50.0,-93.48,35.42
+2226,CSX,March,22,3,127580,Trespasser,,Fatality,Struck by on-track equipment,GA,BARTOW,44.0,,
+2232,NS,March,22,3,109747,Trespasser,,Fatality,Struck by on-track equipment,PA,ALLEGHENY,57.0,-79.83,40.39
+2264,IC,March,24,2,808496,Nontrespasser,,Fatality,Highway-rail collision/impact,IL,PERRY,27.0,-89.32,38.04
+2271,NS,March,24,3,109742,Trespasser,,Fatality,Struck by on-track equipment,KY,PULASKI,20.0,-84.63,37.18
+2280,UP,March,24,2,0314HO025,Trespasser,,Fatality,Highway-rail collision/impact,TX,FORT BEND,25.0,-95.56,29.61
+2281,UP,March,24,3,0314HO029,Trespasser,,Fatality,Struck by on-track equipment,TX,HARRIS,45.0,-95.48,29.81
+2307,NJTR,March,25,3,201403233,Trespasser,,Fatality,Struck by on-track equipment,NJ,MIDDLESEX,50.0,-74.44,40.49
+2313,UP,March,25,3,0314HQ001,Contractor,MOW & Struct.(Only Signal),Fatality,"Sudden, unexpected movement, other",KS,POTTAWATOMIE,25.0,,
+2314,UP,March,25,3,0314HQ001,Contractor,MOW & Struct.(Only Signal),Fatality,"Sudden, unexpected movement, other",KS,POTTAWATOMIE,38.0,,
+2319,BNSF,March,26,2,CA0314201,Trespasser,,Fatality,Highway-rail collision/impact,CA,SACRAMENTO,40.0,-121.38,38.45
+2326,FEC,March,26,3,T09032614,Trespasser,,Fatality,Struck by on-track equipment,FL,BROWARD,70.0,-80.12,26.21
+2333,UP,March,26,3,0314RS028,Trespasser,,Fatality,Struck by on-track equipment,CA,SANTA CLARA,43.0,-121.65,37.13
+2344,BNSF,March,27,2,TC0314205,Trespasser,,Fatality,Highway-rail collision/impact,MN,STEARNS,52.0,-94.14,45.55
+2359,ATK,March,28,3,132237,Trespasser,,Fatality,Struck by on-track equipment,IL,LOGAN,58.0,-89.36,40.14
+2378,UP,March,28,3,0314RS031,Trespasser,,Fatality,Struck by on-track equipment,NV,LYON,20.0,-119.26,39.61
+2385,CSX,March,29,3,127893,Trespasser,,Fatality,Struck by on-track equipment,MA,HAMPDEN,23.0,,
+2401,ATK,March,30,3,132241,Trespasser,,Fatality,Struck by on-track equipment,CA,SANTA BARBAR,57.0,-119.88,34.43
+2403,BNSF,March,30,2,KS0314205,Trespasser,,Fatality,Highway-rail collision/impact,KS,SEDGWICK,45.0,-97.32,37.66
+2404,BNSF,March,30,3,TC0314129,Trespasser,,Fatality,Struck by on-track equipment,ND,BURLEIGH,34.0,-100.76,46.8
+2408,UP,March,30,3,0314PC011,Trespasser,,Fatality,Struck by on-track equipment,OR,MALHEUR,35.0,-116.95,44.03
+2428,UP,March,31,3,0314PC013,Nontrespasser,,Fatality,"Collision/impact - auto, truck, bus, van, etc.",ID,LINCOLN,32.0,,
+2433,BNSF,April,1,2,KS0414200,Trespasser,,Fatality,Highway-rail collision/impact,KS,JOHNSON,52.0,-94.9,38.81
+2455,ATK,April,2,3,132279,Trespasser,,Fatality,Struck by on-track equipment,DE,NEW CASTLE,40.0,-75.54,39.73
+2461,CSX,April,2,3,128008,Trespasser,,Fatality,Struck by on-track equipment,KY,LAUREL,35.0,,
+2469,LI,April,2,3,TS20140401,Trespasser,,Fatality,Struck by on-track equipment,NY,SUFFOLK,26.0,-73.19,40.85
+2472,NS,April,2,2,109859,Nontrespasser,,Fatality,Highway-rail collision/impact,GA,DADE,80.0,-85.44,34.94
+2479,UP,April,2,3,0414LV002,Trespasser,,Fatality,Struck by on-track equipment,LA,RAPIDES,19.0,-92.41,31.41
+2507,ATK,April,4,3,132300,Trespasser,,Fatality,Struck by on-track equipment,CA,LOS ANGELES,60.0,-118.6,34.27
+2514,ATK,April,4,3,132341,Trespasser,,Fatality,Struck by on-track equipment,CA,VENTURA,,-119.04,34.19
+2518,CSX,April,4,2,128086,Nontrespasser,,Fatality,Highway-rail collision/impact,AL,MONTGOMERY,52.0,,
+2532,SCAX,April,4,3,40414,Trespasser,,Fatality,Struck by on-track equipment,CA,LOS ANGELES,,,
+2546,BNSF,April,5,3,NW0414103,Trespasser,,Fatality,Struck by on-track equipment,WA,FRANKLIN,35.0,-119.0,46.55
+2566,CSX,April,6,3,128140,Trespasser,,Fatality,Struck by on-track equipment,KY,WARREN,40.0,,
+2570,MNCW,April,6,3,526,Trespasser,,Fatality,Struck by on-track equipment,NY,NEW YORK,,-73.96,40.76
+2583,FEC,April,7,3,T10040714,Trespasser,,Fatality,Struck by on-track equipment,FL,PALM BEACH,37.0,-80.05,26.59
+2595,SEPA,April,7,3,Y1404002,Trespasser,,Fatality,Struck by on-track equipment,PA,MONTGOMERY,20.0,-75.12,40.1
+2596,SEPA,April,7,3,Y1404006,Trespasser,,Fatality,Struck by on-track equipment,PA,BUCKS,20.0,-75.19,40.72
+2599,UP,April,7,3,0414SA007,Nontrespasser,,Fatality,Assaulted by other,TX,BEXAR,40.0,-98.45,29.4
+2612,NS,April,8,2,109942,Trespasser,,Fatality,Highway-rail collision/impact,GA,WHITFIELD,68.0,-84.96,34.77
+2639,NJTR,April,9,3,201404258,Trespasser,,Fatality,Struck by on-track equipment,NJ,SOMERSET,18.0,-74.61,40.56
+2653,UP,April,9,3,0414RS005,Trespasser,,Fatality,Struck by on-track equipment,CA,NEVADA,27.0,-120.16,39.33
+2660,BNSF,April,10,3,CA0414103,Trespasser,,Fatality,Struck by on-track equipment,CA,KERN,75.0,-119.27,35.5
+2679,UP,April,10,3,0414RS006,Trespasser,,Fatality,Struck by on-track equipment,CA,SACRAMENTO,50.0,-121.42,38.54
+2682,AKMD,April,11,2,CB52014,Nontrespasser,,Fatality,Highway-rail collision/impact,AR,DESHA,31.0,-91.37,33.65
+2691,CSX,April,11,2,128452,Nontrespasser,,Fatality,Highway-rail collision/impact,TN,KNOX,52.0,,
+2728,ATK,April,13,2,132423,Trespasser,,Fatality,Highway-rail collision/impact,SC,BERKELEY,34.0,-80.03,33.02
+2744,BNSF,April,14,3,CA0414109,Trespasser,,Fatality,Struck by on-track equipment,CA,FRESNO,36.0,-119.79,36.76
+2748,BNSF,April,14,2,TX0414200,Nontrespasser,,Fatality,Highway-rail collision/impact,OK,JOHNSTON,24.0,-96.74,34.22
+2750,CSX,April,14,3,128544,Trespasser,,Fatality,Struck by on-track equipment,FL,MARION,37.0,,
+2754,NMRX,April,14,3,14042014,Trespasser,,Fatality,"Slipped, fell, stumbled, other",NM,BERNALILLO,,-98.09,37.78
+2755,NS,April,14,3,110041,Trespasser,,Fatality,Struck by on-track equipment,PA,WESTMORELAND,21.0,-79.38,40.32
+2778,CSX,April,15,3,128585,Trespasser,,Fatality,Struck by on-track equipment,NY,ORANGE,39.0,,
+2825,UP,April,16,3,0414HO026,Trespasser,,Fatality,"Slipped, fell, stumbled, other",TX,HARRIS,25.0,-95.44,29.7
+2836,BNSF,April,17,3,NW0414005,RR Emp on duty,Maint. Equipment & Stores,Fatality,Shot,OR,KLAMATH,42.0,-121.78,42.31
+2839,CSX,April,17,3,128720,Trespasser,,Fatality,Struck by on-track equipment,PA,ALLEGHENY,48.0,,
+2844,NS,April,17,3,110113,Trespasser,,Fatality,Struck by on-track equipment,SC,AIKEN,32.0,-81.86,33.51
+2848,ATK,April,18,2,132460,Trespasser,,Fatality,Highway-rail collision/impact,LA,TANGIPAHOA,61.0,-90.49,30.62
+2855,ATN,April,18,3,ATN140162,Trespasser,,Fatality,"Collision/impact - auto, truck, bus, van, etc.",AL,JEFFERSON,45.0,-86.78,33.52
+2867,NS,April,18,2,110114,Trespasser,,Fatality,Highway-rail collision/impact,GA,BUTTS,52.0,-84.05,33.32
+2870,SEPA,April,18,3,Y1404007,Trespasser,,Fatality,Struck by on-track equipment,PA,MONTGOMERY,,-75.39,39.42
+2878,NMRX,April,19,2,19042014,Nontrespasser,,Fatality,Highway-rail collision/impact,NM,SANTA FE,60.0,-105.95,35.64
+2879,NS,April,19,3,110124,Trespasser,,Fatality,Struck by on-track equipment,NY,BROOME,38.0,-76.02,42.1
+2887,CC,April,20,3,811122,Trespasser,,Fatality,Struck by on-track equipment,IL,DU PAGE,32.0,-88.06,41.92
+2893,UP,April,20,2,0414TC012,Trespasser,,Fatality,Highway-rail collision/impact,IA,POLK,18.0,-93.58,41.59
+2896,UP,April,20,3,0414WH013,Trespasser,,Fatality,Struck by on-track equipment,AR,FAULKNER,17.0,-92.47,35.1
+2899,ATK,April,21,3,132472,Trespasser,,Fatality,"On track equipment, other incidents",CA,CONTRA COSTA,38.0,-122.15,38.02
+2915,CSX,April,21,3,128827,Trespasser,,Fatality,Struck by on-track equipment,IN,VANDERBURGH,55.0,,
+2921,NS,April,21,3,110145,Trespasser,,Fatality,Struck by on-track equipment,MS,ALCORN,38.0,-88.51,34.93
+2929,UP,April,21,3,0414FW026,Trespasser,,Fatality,Struck by on-track equipment,TX,DENTON,34.0,-97.13,33.2
+2935,ATK,April,22,3,132486,Trespasser,,Fatality,Struck by on-track equipment,CA,YOLO,58.0,-121.74,38.53
+2940,CSX,April,22,2,128882,Trespasser,,Fatality,Highway-rail collision/impact,IN,MARION,75.0,,
+2957,UP,April,22,3,0414HO031,Trespasser,,Fatality,Struck by on-track equipment,TX,KENEDY,46.0,-97.79,27.1
+2981,UP,April,23,2,0414LV020,Trespasser,,Fatality,Highway-rail collision/impact,LA,CADDO,79.0,-93.81,32.36
+2982,UP,April,23,2,0414LV020,Trespasser,,Fatality,Highway-rail collision/impact,LA,CADDO,85.0,-93.81,32.36
+2986,ATK,April,24,2,132540,Nontrespasser,,Fatality,Highway-rail collision/impact,IL,CHAMPAIGN,42.0,-88.24,40.09
+3010,SFRV,April,24,2,42414,Trespasser,,Fatality,Highway-rail collision/impact,FL,PALM BEACH,90.0,,
+3034,NS,April,25,2,110212,Nontrespasser,,Fatality,Highway-rail collision/impact,AL,DALLAS,34.0,-86.92,32.44
+3039,SCAX,April,25,3,42514,Trespasser,,Fatality,Struck by on-track equipment,CA,LOS ANGELES,23.0,,
+3045,ATK,April,26,3,132551,Trespasser,,Fatality,Struck by on-track equipment,CA,SAN DIEGO,24.0,-117.18,32.74
+3053,CP,April,26,2,1000090640,Trespasser,,Fatality,Highway-rail collision/impact,IL,KANE,45.0,-88.28,42.02
+3068,NS,April,26,3,110215,Trespasser,,Fatality,Struck by on-track equipment,OH,OTTAWA,29.0,-83.14,41.5
+3080,CSX,April,27,3,129079,Trespasser,,Fatality,Struck by on-track equipment,OH,ASHTABULA,41.0,,
+3081,CSX,April,27,2,129087,Trespasser,,Fatality,Highway-rail collision/impact,NY,ONEIDA,59.0,,
+3091,UP,April,27,3,0414WH018,Trespasser,,Fatality,Struck by on-track equipment,OK,MUSKOGEE,17.0,-95.36,35.74
+3136,UP,April,29,3,0414FW035,Trespasser,,Fatality,Struck by on-track equipment,TX,ECTOR,48.0,-102.35,31.84
+3171,CSX,May,1,2,129308,Nontrespasser,,Fatality,Highway-rail collision/impact,IN,JASPER,38.0,,
+3194,SCAX,May,1,2,50114,Trespasser,,Fatality,Highway-rail collision/impact,CA,LOS ANGELES,43.0,,
+3223,MNA,May,2,3,MNA560814A,Trespasser,,Fatality,"Collision/impact - auto, truck, bus, van, etc.",MO,STONE,19.0,-93.58,36.91
+3231,UP,May,2,2,0514PD002,Trespasser,,Fatality,Highway-rail collision/impact,OR,MARION,49.0,-123.02,44.92
+3232,ATK,May,3,2,132660,Trespasser,,Fatality,Highway-rail collision/impact,CA,CONTRA COSTA,,-122.33,37.92
+3241,NS,May,3,2,110306,Trespasser,,Fatality,Highway-rail collision/impact,AL,CALHOUN,37.0,-85.8,33.61
+3242,NS,May,3,2,110306,Trespasser,,Fatality,Highway-rail collision/impact,AL,CALHOUN,7.0,-85.8,33.61
+3249,NS,May,4,2,110312,Nontrespasser,,Fatality,Highway-rail collision/impact,AL,HALE,20.0,-87.63,32.99
+3254,ATK,May,5,3,132676,Trespasser,,Fatality,Struck by on-track equipment,MD,BALTIMORE,44.0,-76.61,39.3
+3255,ATK,May,5,3,132677,Trespasser,,Fatality,Struck by on-track equipment,CT,NEW LONDON,56.0,-72.05,41.34
+3269,CSX,May,5,2,129451,Nontrespasser,,Fatality,Highway-rail collision/impact,KY,PIKE,66.0,,
+3280,UP,May,5,3,0514PD005,Trespasser,,Fatality,Struck by on-track equipment,OR,UMATILLA,33.0,-118.63,45.66
+3288,BNSF,May,6,2,SF0514201,Nontrespasser,,Fatality,Highway-rail collision/impact,OK,GARFIELD,26.0,-97.81,36.4
+3292,CSX,May,6,2,129500,Nontrespasser,,Fatality,Highway-rail collision/impact,IN,KNOX,67.0,,
+3295,CSX,May,6,3,129654,Trespasser,,Fatality,Other (describe in narrative),FL,ESCAMBIA,53.0,,
+3332,CSX,May,8,3,129656,Trespasser,,Fatality,Other (describe in narrative),IN,MARION,71.0,,
+3350,ATK,May,9,3,132776,Trespasser,,Fatality,Struck by on-track equipment,CT,NEW HAVEN,40.0,-73.05,41.22
+3351,ATK,May,9,3,132778,Trespasser,,Fatality,Struck by on-track equipment,CA,ALAMEDA,28.0,-121.95,37.52
+3366,UP,May,9,2,0514RS008,Nontrespasser,,Fatality,Highway-rail collision/impact,CA,YUBA,59.0,-121.45,39.05
+3385,ATK,May,11,2,132783,Trespasser,,Fatality,Highway-rail collision/impact,WA,KING,81.0,-122.23,47.37
+3392,ATK,May,12,3,132780,Trespasser,,Fatality,Struck by on-track equipment,PA,DELAWARE,50.0,-75.42,39.82
+3406,NS,May,12,3,110538,Trespasser,,Fatality,Struck by on-track equipment,NC,DURHAM,31.0,-78.89,35.99
+3415,BNSO,May,13,2,CH0514200,Trespasser,,Fatality,Highway-rail collision/impact,IL,COOK,66.0,-87.86,41.81
+3425,NS,May,13,3,110429,Trespasser,,Fatality,Struck by on-track equipment,WV,JEFFERSON,49.0,-77.86,39.3
+3460,ATK,May,15,3,132810,Psgr on trn,,Fatality,"Slipped, fell, stumbled, other",MN,RAMSEY,53.0,,
+3468,BNSF,May,15,3,TX0514103,Trespasser,,Fatality,Struck by on-track equipment,TX,TARRANT,15.0,-97.35,32.65
+3479,NS,May,15,2,110476,Nontrespasser,,Fatality,Highway-rail collision/impact,PA,WASHINGTON,26.0,-79.87,40.12
+3491,BNSF,May,16,2,CA0514204,Nontrespasser,,Fatality,Highway-rail collision/impact,CA,RIVERSIDE,55.0,-117.67,33.87
+3496,MACZ,May,16,3,132811,Trespasser,,Fatality,Struck by on-track equipment,MD,PRINCE GEORG,,-76.93,38.91
+3510,BNSF,May,17,3,KS0514102,Trespasser,,Fatality,Struck by on-track equipment,KS,SHAWNEE,30.0,-95.67,39.03
+3511,BNSF,May,17,3,SW0514104,Trespasser,,Fatality,Struck by on-track equipment,AZ,COCONINO,16.0,-111.64,35.19
+3519,NS,May,17,3,110552,Trespasser,,Fatality,Struck by on-track equipment,PA,MONTGOMERY,44.0,-75.43,40.1
+3520,NS,May,17,3,110552,Trespasser,,Fatality,Struck by on-track equipment,PA,MONTGOMERY,50.0,-75.43,40.1
+3521,ATK,May,18,3,132823,Trespasser,,Fatality,Struck by on-track equipment,NY,WASHINGTON,30.0,-73.56,43.28
+3522,ATK,May,18,3,132823,Trespasser,,Fatality,Struck by on-track equipment,NY,WASHINGTON,6.0,-73.56,43.28
+3523,ATK,May,18,2,132825,Trespasser,,Fatality,Highway-rail collision/impact,FL,OSCEOLA,67.0,-81.41,28.28
+3533,CSX,May,18,3,129897,Trespasser,,Fatality,Struck by on-track equipment,FL,BRADFORD,69.0,,
+3540,UP,May,18,3,0514LA011,Contractor,,Fatality,"Slipped, fell, stumbled, other",CA,RIVERSIDE,40.0,,
+3544,ATK,May,19,2,132851,Trespasser,,Fatality,Highway-rail collision/impact,CA,ALAMEDA,18.0,-122.12,37.69
+3551,CSX,May,19,3,129917,Trespasser,,Fatality,Struck by on-track equipment,NC,CLEVELAND,51.0,,
+3564,UP,May,19,3,0514KC013,Nontrespasser,,Fatality,"Collision/impact - auto, truck, bus, van, etc.",KS,SHAWNEE,17.0,,
+3572,ATK,May,20,3,132865,Trespasser,,Fatality,Struck by on-track equipment,NC,ALAMANCE,22.0,-79.51,36.1
+3590,NS,May,20,2,110545,Nontrespasser,,Fatality,Highway-rail collision/impact,AL,ETOWAH,64.0,-86.08,34.02
+3611,NIRC,May,21,3,RIH076,Trespasser,,Fatality,Struck by on-track equipment,IL,WILL,17.0,-87.88,41.53
+3613,NS,May,21,3,110550,Trespasser,,Fatality,Struck by on-track equipment,GA,FLOYD,53.0,-85.16,34.24
+3636,CSX,May,22,3,130058,Trespasser,,Fatality,Struck by on-track equipment,IN,GIBSON,65.0,,
+3637,KCS,May,22,3,14052201,Trespasser,,Fatality,Struck by on-track equipment,LA,VERNON,26.0,-92.39,31.29
+3656,BNSF,May,23,3,CH0514111,Trespasser,,Fatality,Struck by on-track equipment,IL,KANE,22.0,-88.33,41.74
+3692,WC,May,24,3,814495,Trespasser,,Fatality,Struck by on-track equipment,WI,WINNEBAGO,65.0,-88.53,44.0
+3710,CSX,May,26,3,130141,Trespasser,,Fatality,Struck by on-track equipment,PA,ERIE,,,
+3714,MBTA,May,26,3,1816,Trespasser,,Fatality,Struck by on-track equipment,MA,ESSEX,,-70.66,42.62
+3730,LI,May,27,2,GR20140501,Trespasser,,Fatality,Highway-rail collision/impact,NY,NASSAU,77.0,-73.43,40.72
+3749,UP,May,27,3,0514HO038,Trespasser,,Fatality,Struck by on-track equipment,TX,HARRIS,29.0,-95.46,29.8
+3751,UP,May,27,3,0514TC010,Trespasser,,Fatality,Struck by on-track equipment,MN,MARTIN,69.0,-94.25,43.65
+3777,ATK,May,29,3,132962,Trespasser,,Fatality,Struck by on-track equipment,NY,WESTCHESTER,49.0,-73.9,40.93
+3798,MBTA,May,29,3,1821,Trespasser,,Fatality,Struck by on-track equipment,MA,WORCESTER,,-71.71,42.24
+3801,NS,May,29,3,110634,Trespasser,,Fatality,Struck by on-track equipment,GA,TURNER,28.0,-83.64,31.69
+3809,UP,May,29,3,0514FW028,Trespasser,,Fatality,Struck by on-track equipment,TX,REEVES,30.0,-103.56,31.4
+3825,NS,May,30,2,110656,Nontrespasser,,Fatality,Highway-rail collision/impact,TN,ROANE,18.0,-84.5,35.96
+3826,NS,May,30,2,110656,Nontrespasser,,Fatality,Highway-rail collision/impact,TN,ROANE,22.0,-84.5,35.96
+3830,NS,May,30,3,110823,Trespasser,,Fatality,"Slipped, fell, stumbled, other",AL,JEFFERSON,14.0,-86.8,33.54
+3836,ATK,May,31,3,133023,Trespasser,,Fatality,Struck by on-track equipment,ME,CUMBERLAND,39.0,-70.31,43.58
+3844,CSX,May,31,3,130381,Trespasser,,Fatality,Struck by on-track equipment,TN,BLOUNT,46.0,,
+3845,FEC,May,31,2,X08053114,Trespasser,,Fatality,Highway-rail collision/impact,FL,BROWARD,90.0,-80.11,26.27
+3852,UP,May,31,3,0514PR034,Trespasser,,Fatality,Struck by on-track equipment,IL,KANE,14.0,-87.64,41.88
+3855,UP,May,31,3,0514SL023,Nontrespasser,,Fatality,"Collision/impact - auto, truck, bus, van, etc.",MO,ST LOUIS,24.0,-90.28,38.62
+3860,ATK,June,1,2,133044,Nontrespasser,,Fatality,Highway-rail collision/impact,CA,MADERA,66.0,-119.97,36.92
+3914,NS,June,2,3,110711,Trespasser,,Fatality,Struck by on-track equipment,GA,CRISP,63.0,-83.78,31.97
+3926,ATK,June,3,2,133055,Trespasser,,Fatality,Highway-rail collision/impact,CA,VENTURA,20.0,-119.14,34.19
+3927,ATK,June,3,2,133055,Trespasser,,Fatality,Highway-rail collision/impact,CA,VENTURA,19.0,-119.14,34.19
+3950,UP,June,3,3,0614ST004,Trespasser,,Fatality,Struck by on-track equipment,AZ,PIMA,34.0,-111.02,32.29
+4004,UP,June,5,3,0614LK019,Trespasser,,Fatality,Thrill seeking,LA,CADDO,22.0,-93.72,32.5
+4006,UP,June,5,3,0614SA004,Trespasser,,Fatality,Struck by on-track equipment,TX,BEXAR,16.0,-98.47,29.51
+4016,BNSF,June,6,3,CA0614102,Trespasser,,Fatality,Struck by on-track equipment,CA,MERCED,20.0,-120.5,37.32
+4037,CSX,June,7,3,130632,Trespasser,,Fatality,Struck by on-track equipment,NC,NASH,50.0,,
+4040,FEC,June,7,3,T12060714,Trespasser,,Fatality,Struck by on-track equipment,FL,BROWARD,43.0,-80.14,26.0
+4048,UP,June,7,3,0614PD006,Trespasser,,Fatality,Struck by on-track equipment,OR,MULTNOMAH,18.0,-122.74,45.58
+4059,UP,June,8,3,0614HO010,Trespasser,,Fatality,Struck by on-track equipment,TX,HARRIS,30.0,-95.27,29.72
+4066,BNSF,June,9,3,CH0614109,Trespasser,,Fatality,Struck by on-track equipment,IL,LA SALLE,30.0,-88.82,41.11
+4085,SCAX,June,9,2,60914,Trespasser,,Fatality,Highway-rail collision/impact,CA,ORANGE,67.0,,
+4086,SEPA,June,9,3,Z1406007,Trespasser,,Fatality,Struck by on-track equipment,PA,PHILADELPHIA,45.0,-75.18,40.01
+4089,UP,June,9,2,0614RS009,Trespasser,,Fatality,Highway-rail collision/impact,CA,KERN,79.0,-119.24,35.77
+4100,BNSF,June,10,2,NE0614200,Nontrespasser,,Fatality,Highway-rail collision/impact,NE,DAKOTA,75.0,-96.44,42.39
+4103,BNSF,June,10,3,SW0614101,Trespasser,,Fatality,Struck by on-track equipment,NM,CURRY,21.0,-103.14,34.39
+4118,UP,June,10,3,0614DV010,Nontrespasser,,Fatality,"Collision/impact - auto, truck, bus, van, etc.",CO,EAGLE,40.0,-106.62,39.65
+4124,UP,June,10,3,0614RS008,Trespasser,,Fatality,Struck by on-track equipment,CA,MADERA,50.0,-120.08,36.98
+4135,LI,June,11,3,TS20140601,Trespasser,,Fatality,Struck by on-track equipment,NY,NASSAU,31.0,-73.66,40.73
+4147,UP,June,11,3,0614DV013,Trespasser,,Fatality,Struck by on-track equipment,WY,ALBANY,54.0,-105.59,41.33
+4149,UP,June,11,2,0614LK020,Nontrespasser,,Fatality,Highway-rail collision/impact,AR,WHITE,16.0,-91.77,35.14
+4150,UP,June,11,2,0614LV007,Nontrespasser,,Fatality,Highway-rail collision/impact,TX,SAN JACINTO,60.0,-95.04,30.41
+4155,ATK,June,12,3,133176,Trespasser,,Fatality,Struck by on-track equipment,CA,CONTRA COSTA,37.0,-122.35,37.93
+4169,FEC,June,12,3,T13061214,Trespasser,,Fatality,Other (describe in narrative),FL,MIAMI-DADE,,-80.19,25.84
+4170,IC,June,12,3,816443,Trespasser,,Fatality,Struck by on-track equipment,TN,SHELBY,52.0,-89.94,35.28
+4199,BNSF,June,13,2,TX0614202,Nontrespasser,,Fatality,Highway-rail collision/impact,TX,WICHITA,91.0,-98.6,33.94
+4214,UP,June,13,3,0614HO016,Trespasser,,Fatality,Struck by on-track equipment,TX,FORT BEND,43.0,-95.78,29.56
+4218,UP,June,13,3,0614UT011,Trespasser,,Fatality,Struck by on-track equipment,NV,ELKO,35.0,-114.14,41.28
+4220,ATK,June,14,3,133177,Trespasser,,Fatality,Struck by on-track equipment,MO,PETTIS,24.0,-93.19,38.7
+4247,NS,June,14,3,110889,Trespasser,,Fatality,Struck against object,PA,LAWRENCE,42.0,-80.48,41.01
+4252,UP,June,14,3,0614FW009,Trespasser,,Fatality,Struck by on-track equipment,TX,ECTOR,17.0,-102.38,31.83
+4264,NS,June,15,2,110866,Trespasser,,Fatality,Highway-rail collision/impact,AL,JEFFERSON,30.0,-86.94,33.4
+4266,UP,June,15,3,0614LA019,Trespasser,,Fatality,Struck by on-track equipment,CA,SAN BERNARDI,16.0,-117.13,34.86
+4268,ATK,June,16,3,133204,Trespasser,,Fatality,Struck by on-track equipment,FL,DUVAL,34.0,-81.63,29.65
+4269,ATK,June,16,3,133205,Trespasser,,Fatality,Struck by on-track equipment,CA,SOLANO,40.0,-122.01,38.25
+4270,ATK,June,16,2,133206,Nontrespasser,,Fatality,Highway-rail collision/impact,TX,BELL,58.0,-97.33,31.08
+4277,BNSF,June,16,3,KS0614102,Trespasser,,Fatality,Struck by on-track equipment,KS,SUMNER,30.0,-97.44,37.26
+4285,NMRX,June,16,2,16062014,Nontrespasser,,Fatality,Highway-rail collision/impact,NM,SANTA FE,,-105.96,35.65
+4295,AO,June,17,3,A2014JUNTF,Trespasser,,Fatality,Struck by on-track equipment,WV,UPSHUR,68.0,-80.21,38.98
+4302,BNSF,June,17,3,SW0614107,Trespasser,,Fatality,Struck by on-track equipment,AZ,COCONINO,59.0,-111.59,35.21
+4315,NS,June,17,2,110893,Trespasser,,Fatality,Highway-rail collision/impact,TN,HAMBLEN,79.0,-83.28,36.21
+4332,CSX,June,18,3,131084,Trespasser,,Fatality,Struck by on-track equipment,GA,FULTON,23.0,,
+4338,NJTR,June,18,3,201406377,Trespasser,,Fatality,Struck by on-track equipment,NJ,PASSAIC,53.0,-74.16,40.92
+4340,PCMZ,June,18,3,20140618A,Trespasser,,Fatality,Struck by on-track equipment,CA,SANTA CLARA,,-122.09,37.4
+4343,UP,June,18,2,0614DV020,Nontrespasser,,Fatality,Highway-rail collision/impact,KS,LOGAN,29.0,-101.14,39.08
+4353,CP,June,19,2,1000104599,Nontrespasser,,Fatality,Highway-rail collision/impact,IL,LAKE,59.0,-87.87,42.22
+4355,CSX,June,19,2,131132,Nontrespasser,,Fatality,Highway-rail collision/impact,IN,VERMILLION,74.0,,
+4420,BNSF,June,21,3,SF0614113,Trespasser,,Fatality,Struck by on-track equipment,KS,CRAWFORD,30.0,-94.82,37.31
+4429,NS,June,21,2,110959,Nontrespasser,,Fatality,Highway-rail collision/impact,IL,JEFFERSON,35.0,-88.75,38.32
+4433,UP,June,21,2,0614LK036,Nontrespasser,,Fatality,Highway-rail collision/impact,LA,MOREHOUSE,66.0,-91.78,32.78
+4436,ATK,June,22,3,133275,Trespasser,,Fatality,Struck by on-track equipment,MA,BRISTOL,26.0,-71.24,41.99
+4437,ATK,June,22,3,133275,Trespasser,,Fatality,Struck by on-track equipment,MA,BRISTOL,26.0,-71.24,41.99
+4438,ATK,June,22,3,133275,Trespasser,,Fatality,Struck by on-track equipment,MA,BRISTOL,28.0,-71.24,41.99
+4454,UP,June,22,3,0614RS025,Trespasser,,Fatality,Struck by on-track equipment,CA,BUTTE,38.0,-121.71,39.4
+4456,VTAZ,June,22,2,1406222103,Trespasser,,Fatality,Highway-rail collision/impact,CA,SANTA CLARA,51.0,-121.94,37.3
+4470,BNSF,June,23,2,KS0614201,Trespasser,,Fatality,Highway-rail collision/impact,KS,SEDGWICK,52.0,-97.31,37.65
+4471,BNSF,June,23,2,NE0614201,Trespasser,,Fatality,Highway-rail collision/impact,NE,LANCASTER,56.0,-96.67,40.84
+4474,CSX,June,23,3,131310,Trespasser,,Fatality,Other (describe in narrative),GA,BARTOW,44.0,,
+4486,UP,June,23,3,0614LK042,Trespasser,,Fatality,Struck by on-track equipment,TX,CAMP,64.0,-94.97,33.12
+4487,ABWR,June,24,3,I72414,RR Emp on duty,"Transp, Train and Engine",Fatality,Derailment,AL,JEFFERSON,27.0,-86.48,33.33
+4491,BNSF,June,24,2,NE0614202,Nontrespasser,,Fatality,Highway-rail collision/impact,NE,THURSTON,72.0,-96.48,42.26
+4513,ATK,June,25,3,133313,Trespasser,,Fatality,Struck by on-track equipment,PA,DELAWARE,41.0,-75.16,39.95
+4523,CSX,June,25,3,131341,Trespasser,,Fatality,Struck by object,GA,CATOOSA,17.0,,
+4553,BNSF,June,26,3,CA0614115,Trespasser,,Fatality,Struck by on-track equipment,CA,SAN DIEGO,19.0,-117.32,33.12
+4568,UP,June,26,3,0614FW024,Trespasser,,Fatality,Struck by on-track equipment,TX,HENDERSON,14.0,-96.01,32.16
+4613,UP,June,27,2,0614SA025,Trespasser,,Fatality,Highway-rail collision/impact,TX,BEXAR,72.0,-98.48,29.4
+4623,BNSF,June,28,3,CH0614112,Trespasser,,Fatality,Struck by on-track equipment,IL,COOK,,-87.79,41.83
+4627,CSX,June,28,3,131494,Trespasser,,Fatality,Struck by on-track equipment,MD,PRINCE GEORG,49.0,,
+4641,CSX,June,29,2,131463,Trespasser,,Fatality,Highway-rail collision/impact,OH,SUMMIT,52.0,,
+4652,NS,June,29,3,111103,Trespasser,,Fatality,Struck by on-track equipment,NC,GUILFORD,43.0,-79.97,35.96
+4654,NS,June,29,3,111130,Trespasser,,Fatality,Struck by on-track equipment,VA,SMYTH,52.0,-81.67,36.8
+4655,NS,June,29,3,111131,Trespasser,,Fatality,Struck by on-track equipment,VA,SMYTH,6.0,-81.67,36.8
+4660,UP,June,29,3,0614LK050,Trespasser,,Fatality,Struck by on-track equipment,LA,MOREHOUSE,19.0,-91.78,32.8
+4663,ATK,June,30,3,133381,Trespasser,,Fatality,Struck by on-track equipment,MI,KALAMAZOO,16.0,-85.41,42.29
+4678,DART,June,30,3,R05147,Nontrespasser,,Fatality,Lost balance,TX,DALLAS,24.0,-96.87,35.85
+4686,MNCW,June,30,3,547,Trespasser,,Fatality,Struck by on-track equipment,NY,WESTCHESTER,,-73.92,41.28
+4756,UP,July,2,3,0714LA001,Trespasser,,Fatality,Struck by on-track equipment,CA,LOS ANGELES,16.0,-117.96,34.01
+4762,ATK,July,3,3,133437,Psgr on trn,,Fatality,Assaulted by other,TX,BEXAR,56.0,,
+4772,FEC,July,3,3,T16070314,Trespasser,,Fatality,Struck by on-track equipment,FL,MIAMI-DADE,25.0,-80.26,25.84
+4775,NS,July,3,3,111169,Trespasser,,Fatality,Struck by on-track equipment,NC,CATAWBA,41.0,-81.36,35.73
+4781,UP,July,3,2,0714LK003,Nontrespasser,,Fatality,Highway-rail collision/impact,AR,PULASKI,9.0,-92.23,34.68
+4797,NS,July,4,3,111175,Trespasser,,Fatality,Struck by on-track equipment,LA,ST TAMMANY,37.0,-89.78,30.28
+4812,GRS,July,5,3,20140705N1,Trespasser,,Fatality,Struck by on-track equipment,NH,HILLSBOROUGH,50.0,-71.53,43.2
+4822,NS,July,5,2,111191,Nontrespasser,,Fatality,Highway-rail collision/impact,PA,YORK,23.0,-76.73,40.12
+4826,UP,July,5,3,0714PD003,Trespasser,,Fatality,Struck by on-track equipment,OR,WASCO,39.0,-121.17,45.59
+4827,UP,July,5,3,0714ST002,Trespasser,,Fatality,Struck by on-track equipment,TX,EL PASO,19.0,-106.31,31.68
+4828,UP,July,5,3,0714ST002,Trespasser,,Fatality,Struck by on-track equipment,TX,EL PASO,20.0,-106.31,31.68
+4890,NIRC,July,8,3,MRH069,Trespasser,,Fatality,Struck by on-track equipment,IL,KANE,56.0,-88.29,42.04
+4896,UP,July,8,3,0714FW005,Trespasser,,Fatality,Struck by on-track equipment,TX,VAN ZANDT,24.0,-95.8,32.68
+4905,BNSF,July,9,2,KS0714200,Nontrespasser,,Fatality,Highway-rail collision/impact,TX,PARMER,59.0,-102.93,34.34
+4912,CSX,July,9,3,131975,Trespasser,,Fatality,Struck by on-track equipment,KY,BULLITT,39.0,,
+4948,PCMZ,July,10,3,20140710B,Trespasser,,Fatality,Struck by on-track equipment,CA,SAN MATEO,,-122.19,37.46
+4953,UP,July,10,3,0714LV007,Trespasser,,Fatality,Struck by on-track equipment,LA,ST LANDRY,35.0,-91.97,30.73
+4956,ATK,July,11,3,133554,Trespasser,,Fatality,Struck by on-track equipment,CA,SANTA CLARA,81.0,-121.95,37.36
+4984,ATK,July,12,3,133557,Trespasser,,Fatality,Struck by on-track equipment,NY,SCHENECTADY,,-76.15,43.03
+4985,ATK,July,12,3,133559,Trespasser,,Fatality,Struck by on-track equipment,CA,ORANGE,51.0,-117.8,33.7
+4989,BNSF,July,12,3,SW0714100,Trespasser,,Fatality,Struck by on-track equipment,NM,VALENCIA,24.0,-106.77,34.68
+4990,CSX,July,12,2,132044,Trespasser,,Fatality,Highway-rail collision/impact,TN,BLOUNT,32.0,,
+4991,CSX,July,12,2,132054,Trespasser,,Fatality,Highway-rail collision/impact,MI,BERRIEN,20.0,,
+4992,MCRY,July,12,3,7122014,Volunteer,,Fatality,"Slipped, fell, stumbled, other",WI,SAUK,66.0,,
+4997,UP,July,12,3,0714ST007,Trespasser,,Fatality,Struck by on-track equipment,TX,EL PASO,34.0,-106.31,31.68
+5000,ATK,July,13,3,133561,Trespasser,,Fatality,Struck by on-track equipment,CA,MONTEREY,31.0,-121.65,36.67
+5012,NS,July,13,3,111299,Trespasser,,Fatality,Struck by on-track equipment,TN,SHELBY,59.0,-89.8,35.08
+5043,BNSF,July,14,3,KS0714006,Nontrespasser,,Fatality,Caught in/crushed by materials,KS,WYANDOTTE,48.0,-94.66,39.07
+5044,BNSF,July,14,2,NE0714200,Trespasser,,Fatality,Highway-rail collision/impact,NE,YORK,43.0,-97.58,40.87
+5046,CSX,July,14,3,132070,Trespasser,,Fatality,Struck by on-track equipment,VA,JAMES CITY,42.0,,
+5047,CSX,July,14,3,132241,Trespasser,,Fatality,"Caught, crushed, pinched, other",WV,LOGAN,44.0,-119.88,34.43
+5055,NS,July,14,3,111318,Trespasser,,Fatality,Struck by on-track equipment,GA,MUSCOGEE,61.0,-84.98,32.46
+5077,FEC,July,15,3,T18071514,Trespasser,,Fatality,Struck by on-track equipment,FL,VOLUSIA,56.0,-81.05,29.26
+5078,IC,July,15,3,820178,Trespasser,,Fatality,"Slipped, fell, stumbled, other",IL,MASSAC,46.0,-88.73,37.27
+5107,CSX,July,16,3,132236,RR Emp on duty,MOW & Struct.(Only Signal),Fatality,Struck by object,WV,FAYETTE,55.0,,
+5126,UP,July,16,3,0714HO017,Trespasser,,Fatality,Bitten by animal,TX,GALVESTON,30.0,-94.82,29.29
+5130,ATK,July,17,2,133638,Trespasser,,Fatality,Highway-rail collision/impact,GA,CHATHAM,23.0,-81.15,32.12
+5136,KCS,July,17,3,14071701,Trespasser,,Fatality,Struck by on-track equipment,TX,WEBB,45.0,-99.49,27.5
+5154,CSX,July,18,3,132309,Trespasser,,Fatality,Struck by on-track equipment,MS,HARRISON,37.0,,
+5157,FEC,July,18,3,T19071814,Trespasser,,Fatality,Struck by on-track equipment,FL,PALM BEACH,40.0,-80.05,26.58
+5169,UP,July,18,3,0714RS022,Trespasser,,Fatality,Struck by on-track equipment,NV,WASHOE,52.0,-119.8,39.53
+5183,NS,July,19,2,111385,Trespasser,,Fatality,Highway-rail collision/impact,IN,ALLEN,66.0,-85.02,41.07
+5187,UP,July,19,3,0714LK020,Trespasser,,Fatality,Struck by on-track equipment,AR,COLUMBIA,52.0,-93.21,33.34
+5189,UP,July,19,2,0714RS023,Trespasser,,Fatality,Highway-rail collision/impact,CA,STANISLAUS,39.0,-120.86,37.5
+5207,NS,July,20,3,111387,Trespasser,,Fatality,Struck by on-track equipment,PA,WESTMORELAND,22.0,-79.02,40.41
+5237,NJTR,July,21,3,201408440,Trespasser,,Fatality,Struck by on-track equipment,NJ,PASSAIC,59.0,-74.16,40.91
+5239,NS,July,21,3,111410,Trespasser,,Fatality,Struck by on-track equipment,PA,LEHIGH,24.0,-75.52,40.52
+5240,NS,July,21,3,111410,Trespasser,,Fatality,Struck by on-track equipment,PA,LEHIGH,22.0,-75.52,40.52
+5250,ATK,July,22,2,133793,Trespasser,,Fatality,Highway-rail collision/impact,OR,LINN,58.0,-123.09,44.63
+5253,BNSF,July,22,3,NE0714110,Trespasser,,Fatality,Struck by on-track equipment,KS,JOHNSON,41.0,-94.65,39.04
+5265,NS,July,22,3,111422,Trespasser,,Fatality,Other (describe in narrative),OH,BELMONT,34.0,-80.71,40.1
+5282,ATK,July,23,2,133753,Trespasser,,Fatality,Highway-rail collision/impact,CA,VENTURA,,-119.19,34.24
+5283,ATK,July,23,3,133755,Trespasser,,Fatality,Struck by on-track equipment,ME,YORK,43.0,-70.73,43.3
+5304,NS,July,23,3,111509,Trespasser,,Fatality,Struck by on-track equipment,NY,STEUBEN,25.0,-77.06,42.15
+5349,BNSF,July,24,3,CA0714108,Trespasser,,Fatality,Struck by on-track equipment,CA,KERN,62.0,-118.36,35.12
+5351,BNSF,July,24,2,GC0714203,Nontrespasser,,Fatality,Highway-rail collision/impact,TX,FORT BEND,28.0,-95.53,29.61
+5383,UP,July,25,3,0714RS024,Trespasser,,Fatality,Struck by on-track equipment,CA,SACRAMENTO,23.0,-121.45,38.58
+5405,CP,July,27,3,1000112778,Nontrespasser,,Fatality,Struck by on-track equipment,WI,COLUMBIA,21.0,-89.77,43.62
+5408,CSX,July,27,3,132678,Trespasser,,Fatality,Struck by on-track equipment,SC,SPARTANBURG,52.0,,
+5413,UP,July,27,2,0714FW028,Trespasser,,Fatality,Highway-rail collision/impact,TX,MIDLAND,43.0,-102.06,31.99
+5415,WC,July,27,2,821325,Trespasser,,Fatality,Highway-rail collision/impact,WI,WOOD,80.0,-89.83,44.39
+5429,NS,July,28,3,112063,Trespasser,,Fatality,Struck by on-track equipment,GA,FLOYD,69.0,-85.16,34.24
+5438,UP,July,28,3,0714LA020,Trespasser,,Fatality,"Slipped, fell, stumbled, other",CA,LOS ANGELES,55.0,-118.11,34.59
+5439,UP,July,28,3,0714RS026,Trespasser,,Fatality,Struck by on-track equipment,CA,BUTTE,45.0,-121.7,39.4
+5451,CSX,July,29,2,132689,Nontrespasser,,Fatality,Highway-rail collision/impact,AL,CHILTON,45.0,,
+5478,ATK,July,30,3,133844,Trespasser,,Fatality,Struck by on-track equipment,NY,CORTLAND,26.0,-76.17,42.6
+5484,BNSF,July,30,3,NE0714016,Trespasser,,Fatality,"Slipped, fell, stumbled, other",MO,HOLT,59.0,-95.05,39.9
+5499,NJTR,July,30,3,201408445,Trespasser,,Fatality,Struck by on-track equipment,NJ,ESSEX,,-74.18,40.71
+5512,WC,July,30,2,821546,Trespasser,,Fatality,Highway-rail collision/impact,WI,WOOD,21.0,-90.16,44.66
+5513,ATK,July,31,3,133852,Trespasser,,Fatality,Struck by on-track equipment,AL,TUSCALOOSA,21.0,-87.5,33.22
+5525,CSX,July,31,3,132852,Trespasser,,Fatality,Struck by object,FL,LEON,35.0,,
+5537,NS,July,31,3,111560,Trespasser,,Fatality,Struck by on-track equipment,NC,GUILFORD,49.0,-79.88,36.03
+5538,NS,July,31,2,111564,Nontrespasser,,Fatality,Highway-rail collision/impact,MO,MONROE,40.0,-92.26,39.45
+5544,UPME,July,31,2,0714CM008,Nontrespasser,,Fatality,Highway-rail collision/impact,IL,COOK,45.0,-87.91,42.05
+5552,BNSF,August,1,3,CA0814100,Trespasser,,Fatality,Struck by on-track equipment,CA,CONTRA COSTA,27.0,-121.8,38.01
+5557,BNSF,August,1,3,TC0814100,Trespasser,,Fatality,Struck by on-track equipment,ND,MCHENRY,58.0,-100.73,48.28
+5563,DGNO,August,1,3,DGN609814T,Trespasser,,Fatality,Struck by on-track equipment,TX,DALLAS,46.0,-96.74,32.75
+5569,NJTR,August,1,3,201408446,Trespasser,,Fatality,Struck by on-track equipment,NJ,MIDDLESEX,37.0,-74.46,40.59
+5577,UP,August,1,3,0814UT001,Trespasser,,Fatality,"Climatic condition, exposure to environmental heat",UT,TOOELE,38.0,-113.66,40.73
+5588,UP,August,2,3,0814PR002,Trespasser,,Fatality,"Slipped, fell, stumbled, other",IL,COOK,37.0,-87.89,41.89
+5594,CSX,August,3,3,132917,Trespasser,,Fatality,Struck by on-track equipment,PA,ALLEGHENY,18.0,,
+5598,LI,August,3,3,TS20140801,Trespasser,,Fatality,Struck by on-track equipment,NY,KINGS,33.0,-73.9,40.67
+5599,LI,August,3,3,TS20140802,Trespasser,,Fatality,Struck by on-track equipment,NY,QUEENS,21.0,-73.77,40.76
+5604,SFRV,August,3,3,80314,Trespasser,,Fatality,Other (describe in narrative),FL,MIAMI-DADE,,,
+5622,BNSF,August,4,3,CA0814102,Trespasser,,Fatality,Struck by on-track equipment,CA,KINGS,16.0,-119.65,36.33
+5633,NS,August,4,3,111726,Trespasser,,Fatality,Struck by on-track equipment,GA,WHITFIELD,23.0,-84.99,34.65
+5637,SFRV,August,4,2,80414,Trespasser,,Fatality,Highway-rail collision/impact,FL,PALM BEACH,59.0,,
+5644,ATK,August,5,3,133918,Trespasser,,Fatality,Struck by on-track equipment,CA,ALAMEDA,73.0,-121.98,37.56
+5669,ATK,August,6,3,133931,Trespasser,,Fatality,Struck by on-track equipment,OH,PORTAGE,53.0,-81.24,41.14
+5678,BNSF,August,6,2,SF0814201,Nontrespasser,,Fatality,Highway-rail collision/impact,MS,UNION,50.0,-89.11,34.55
+5700,UP,August,6,3,0814LA006,Trespasser,,Fatality,"Slipped, fell, stumbled, other",CA,LOS ANGELES,49.0,-118.13,34.71
+5701,UP,August,6,3,0814RS006,Trespasser,,Fatality,Struck by on-track equipment,CA,PLACER,34.0,-121.06,38.91
+5708,BNSF,August,7,2,CA0814200,Trespasser,,Fatality,Highway-rail collision/impact,CA,SAN DIEGO,,-117.34,33.16
+5709,BNSF,August,7,3,CH0814100,Trespasser,,Fatality,Struck by on-track equipment,IL,COOK,54.0,-87.69,41.85
+5710,BNSF,August,7,3,CH0814100,Trespasser,,Fatality,Struck by on-track equipment,IL,COOK,57.0,-87.69,41.85
+5728,NS,August,7,3,111847,Trespasser,,Fatality,Struck by on-track equipment,OH,FRANKLIN,22.0,-83.0,40.12
+5740,CSX,August,8,2,133157,Trespasser,,Fatality,Highway-rail collision/impact,IN,LAKE,29.0,,
+5741,CSX,August,8,2,133157,Trespasser,,Fatality,Highway-rail collision/impact,IN,LAKE,32.0,,
+5761,UP,August,8,3,0814ST009,Trespasser,,Fatality,Struck by on-track equipment,AZ,PIMA,56.0,-110.97,32.22
+5765,BNSF,August,9,3,CA0814108,Trespasser,,Fatality,Struck by on-track equipment,CA,SAN DIEGO,40.0,-117.29,33.03
+5774,NS,August,9,3,111670,Trespasser,,Fatality,Struck by on-track equipment,WV,MINGO,29.0,-82.21,37.63
+5788,BNSF,August,10,3,PR0814114,Trespasser,,Fatality,Struck by on-track equipment,CO,PUEBLO,,-104.63,38.28
+5819,CSX,August,11,2,133287,Nontrespasser,,Fatality,Highway-rail collision/impact,OH,WOOD,38.0,,
+5844,ATK,August,12,3,133987,Trespasser,,Fatality,Other (describe in narrative),MD,BALTIMORE,50.0,-76.61,39.3
+5854,BNSF,August,12,3,TX0814104,Trespasser,,Fatality,Struck by on-track equipment,OK,OKLAHOMA,57.0,-97.48,35.64
+5862,MBTA,August,12,2,1859,Trespasser,,Fatality,Highway-rail collision/impact,MA,ESSEX,63.0,-70.87,42.77
+5964,NJTR,August,15,3,201408490,Trespasser,,Fatality,Struck by on-track equipment,NJ,BERGEN,19.0,-74.03,41.03
+5965,NS,August,15,2,111773,Nontrespasser,,Fatality,Highway-rail collision/impact,PA,LYCOMING,46.0,-76.84,41.18
+5966,NS,August,15,2,111773,Nontrespasser,,Fatality,Highway-rail collision/impact,PA,LYCOMING,49.0,-76.84,41.18
+5967,NS,August,15,3,111925,Trespasser,,Fatality,Struck by on-track equipment,MD,WASHINGTON,58.0,-77.72,39.64
+5985,NJTR,August,16,3,201408507,Trespasser,,Fatality,Struck by on-track equipment,NJ,PASSAIC,65.0,-74.13,40.83
+5996,UP,August,16,2,0814RS016,Trespasser,,Fatality,Highway-rail collision/impact,CA,STANISLAUS,35.0,-120.84,37.49
+6000,BNSF,August,17,3,CA0814006,RR Emp on duty,Maint. Equipment & Stores,Fatality,Shot,CA,KERN,38.0,-118.41,35.12
+6013,UP,August,17,1,0814LK013,RR Emp on duty,"Transp, Train and Engine",Fatality,Collision - between on track equipment,AR,LAWRENCE,31.0,-90.99,36.02
+6016,UP,August,17,1,0814LK013,RR Emp on duty,"Transp, Train and Engine",Fatality,Collision - between on track equipment,AR,LAWRENCE,40.0,-90.99,36.02
+6035,NJTR,August,18,3,201408489,Trespasser,,Fatality,Struck by on-track equipment,NJ,PASSAIC,25.0,-74.16,40.89
+6038,NS,August,18,2,111802,Nontrespasser,,Fatality,Highway-rail collision/impact,IL,CHAMPAIGN,52.0,-88.29,40.14
+6057,CSX,August,19,2,133627,Trespasser,,Fatality,Highway-rail collision/impact,MI,WAYNE,45.0,,
+6071,NS,August,19,2,111839,Nontrespasser,,Fatality,Highway-rail collision/impact,WV,PUTNAM,73.0,-81.99,38.57
+6076,UP,August,19,2,0814RS017,Trespasser,,Fatality,Highway-rail collision/impact,CA,TULARE,45.0,-119.34,36.2
+6080,ATK,August,20,3,134101,Trespasser,,Fatality,Struck by on-track equipment,NC,ROWAN,49.0,-80.48,35.65
+6116,NS,August,21,3,112316,Trespasser,,Fatality,Struck by on-track equipment,WV,MCDOWELL,20.0,-81.7,37.45
+6117,NS,August,21,3,112316,Trespasser,,Fatality,Struck by on-track equipment,WV,MCDOWELL,24.0,-81.7,37.45
+6134,BNSF,August,22,3,PR0814117,Trespasser,,Fatality,Struck by on-track equipment,CO,LARIMER,13.0,-105.07,40.41
+6147,SCAX,August,22,3,82214,Trespasser,,Fatality,Struck by on-track equipment,CA,LOS ANGELES,,,
+6149,UP,August,22,3,0814SA016,Trespasser,,Fatality,Struck by on-track equipment,TX,MEDINA,40.0,-98.89,29.15
+6153,ATK,August,23,3,134145,Trespasser,,Fatality,Struck by on-track equipment,CA,MONTEREY,56.0,-121.65,36.67
+6160,BNSF,August,23,3,NW0814102,Trespasser,,Fatality,Struck by on-track equipment,WA,CHELAN,39.0,-120.64,47.71
+6174,BNSF,August,24,3,MT0814111,Trespasser,,Fatality,Struck by on-track equipment,MT,CUSTER,50.0,-105.85,46.39
+6181,CSX,August,24,3,133916,Trespasser,,Fatality,Other (describe in narrative),TN,DAVIDSON,33.0,,
+6209,NS,August,25,3,111940,Trespasser,,Fatality,Struck by on-track equipment,GA,FULTON,53.0,-84.39,33.74
+6220,WC,August,25,2,824175,Trespasser,,Fatality,Highway-rail collision/impact,WI,DOUGLAS,59.0,-91.82,46.35
+6232,CSX,August,26,3,134073,Trespasser,,Fatality,Other impacts - on track equipment,IN,MARION,48.0,,
+6236,MNCW,August,26,3,563,Trespasser,,Fatality,Struck by on-track equipment,CT,NEW HAVEN,38.0,-73.05,41.48
+6299,WSOR,August,28,3,I755414,Trespasser,,Fatality,Struck by on-track equipment,WI,DANE,63.0,-89.29,43.01
+6303,BNSF,August,29,2,MT0814203,Nontrespasser,,Fatality,Highway-rail collision/impact,MT,TREASURE,78.0,-107.17,46.29
+6315,NS,August,29,3,111973,Trespasser,,Fatality,Struck by on-track equipment,KY,FAYETTE,31.0,-84.52,38.01
+6316,NS,August,29,2,111986,Nontrespasser,,Fatality,Highway-rail collision/impact,NC,WAKE,55.0,-78.82,35.82
+6317,NS,August,29,2,111986,Nontrespasser,,Fatality,Highway-rail collision/impact,NC,WAKE,55.0,-78.82,35.82
+6325,UP,August,29,3,0814LA026,Trespasser,,Fatality,Struck by on-track equipment,CA,KERN,45.0,-119.04,35.4
+6331,BNSF,August,30,2,SF0814206,Nontrespasser,,Fatality,Highway-rail collision/impact,OK,PAWNEE,49.0,-96.58,36.26
+6346,UP,August,30,3,0814ST025,Trespasser,,Fatality,Struck by on-track equipment,TX,EL PASO,23.0,-106.44,31.77
+6350,BNSF,August,31,3,CH0814106,Trespasser,,Fatality,Struck by on-track equipment,IL,FULTON,,-90.43,40.66
+6352,BNSF,August,31,3,NE0814107,Trespasser,,Fatality,Struck by on-track equipment,IA,JEFFERSON,42.0,-91.97,41.01
+6362,ATK,September,1,2,134278,Trespasser,,Fatality,Highway-rail collision/impact,CA,ALAMEDA,48.0,-122.2,37.75
+6368,NJTR,September,1,3,201409514,Trespasser,,Fatality,Struck by on-track equipment,NJ,MONMOUTH,17.0,-74.2,40.41
+6378,BNSF,September,2,2,SF0914200,Trespasser,,Fatality,Highway-rail collision/impact,KS,LINN,64.0,-94.76,38.34
+6393,SCAX,September,2,2,90214,Trespasser,,Fatality,Highway-rail collision/impact,CA,LOS ANGELES,79.0,,
+6435,ATK,September,4,3,134336,Psgr on trn,,Fatality,Struck by on-track equipment,WA,PIERCE,43.0,-122.43,47.25
+6443,KCS,September,4,3,14090401,Trespasser,,Fatality,Struck by on-track equipment,MS,HINDS,42.0,-90.6,32.33
+6451,RCPE,September,4,2,RCP623814G,Trespasser,,Fatality,Highway-rail collision/impact,SD,PENNINGTON,,-103.06,44.11
+6463,CSX,September,5,3,134448,Trespasser,,Fatality,Struck by on-track equipment,TN,DAVIDSON,21.0,,
+6485,ATK,September,6,3,134359,Trespasser,,Fatality,Struck by on-track equipment,CT,FAIRFIELD,,-73.25,41.14
+6492,CSX,September,6,3,134518,Trespasser,,Fatality,Struck by on-track equipment,MD,MONTGOMERY,35.0,,
+6493,CSX,September,6,3,134520,Trespasser,,Fatality,Struck by on-track equipment,KY,BOYD,54.0,,
+6497,INRD,September,6,2,649018,Nontrespasser,,Fatality,Highway-rail collision/impact,IN,MORGAN,32.0,,
+6500,KCS,September,6,2,14090603,Trespasser,,Fatality,Highway-rail collision/impact,TX,FORT BEND,28.0,-95.5,29.63
+6511,NS,September,6,3,112111,Trespasser,,Fatality,Struck by on-track equipment,SC,SPARTANBURG,49.0,-82.22,34.93
+6515,SJVR,September,6,3,SJV625314A,Contractor,MOW & Struct.( No Signal),Fatality,Apprehending/removing from property,CA,KERN,18.0,-119.78,35.18
+6519,UP,September,6,3,0914RS004,Trespasser,,Fatality,Struck by on-track equipment,CA,BUTTE,50.0,-121.67,39.32
+6522,ATK,September,7,3,134360,Trespasser,,Fatality,Struck by on-track equipment,CA,SAN DIEGO,48.0,-117.26,32.97
+6523,ATK,September,7,3,134367,Trespasser,,Fatality,Struck by on-track equipment,IL,COOK,48.0,-87.85,42.07
+6525,ATK,September,7,2,134370,Nontrespasser,,Fatality,Highway-rail collision/impact,WA,CLARK,80.0,-122.54,45.59
+6532,BNSF,September,7,3,TC0914100,Trespasser,,Fatality,Struck by on-track equipment,MN,ANOKA,16.0,-93.38,45.2
+6533,CSX,September,7,3,134525,Trespasser,,Fatality,Struck by on-track equipment,TN,RUTHERFORD,,,
+6542,UP,September,7,2,0914TC005,Nontrespasser,,Fatality,Highway-rail collision/impact,IA,WRIGHT,33.0,-93.83,42.7
+6573,ATK,September,9,3,134406,Trespasser,,Fatality,Struck by on-track equipment,NC,DURHAM,30.0,-78.9,35.99
+6633,NJTR,September,11,3,201409543,Trespasser,,Fatality,Struck by on-track equipment,NJ,ESSEX,34.0,-74.17,40.74
+6637,NS,September,11,2,112406,Nontrespasser,,Fatality,Highway-rail collision/impact,KY,MCCREARY,74.0,-84.47,36.73
+6658,SCAX,September,12,3,91214,Trespasser,,Fatality,Struck by on-track equipment,CA,LOS ANGELES,,,
+6671,BNSF,September,13,3,CA0914104,Trespasser,,Fatality,Struck by on-track equipment,CA,CONTRA COSTA,30.0,-121.93,38.03
+6672,BNSF,September,13,3,PR0914105,Trespasser,,Fatality,Struck by on-track equipment,CO,MORGAN,,-103.87,40.24
+6688,UP,September,14,3,0914RS010,Trespasser,,Fatality,Struck by on-track equipment,CA,SAN JOAQUIN,38.0,-121.23,37.8
+6694,BNSF,September,15,3,MT0914003,Nontrespasser,,Fatality,Struck by on-track equipment,ND,WARD,59.0,-101.87,48.34
+6695,BNSF,September,15,2,MT0914200,Nontrespasser,,Fatality,Highway-rail collision/impact,ND,WARD,59.0,-101.87,48.34
+6723,ATK,September,16,3,134487,Trespasser,,Fatality,Struck by on-track equipment,CA,ALAMEDA,44.0,-122.01,37.59
+6725,BNSF,September,16,3,CH0914108,Trespasser,,Fatality,Struck by on-track equipment,IL,DU PAGE,,-88.13,41.78
+6743,TRMW,September,16,3,09162014A,Trespasser,,Fatality,Other (describe in narrative),WA,PIERCE,38.0,-122.4,47.24
+6820,GTW,September,19,2,826939,Trespasser,,Fatality,Highway-rail collision/impact,MI,GENESEE,44.0,-83.51,43.03
+6836,ATK,September,20,2,134515,Trespasser,,Fatality,Highway-rail collision/impact,FL,SEMINOLE,28.0,-81.33,28.72
+6841,CP,September,20,2,1000126428,Nontrespasser,,Fatality,Highway-rail collision/impact,MN,DODGE,56.0,-92.84,44.02
+6856,UP,September,20,3,0914LA022,Nontrespasser,,Fatality,Struck against object,CA,SAN BERNARDI,35.0,-117.4,34.21
+6865,CSX,September,21,3,135148,Trespasser,,Fatality,Struck by on-track equipment,FL,POLK,55.0,,
+6871,NS,September,21,3,112249,Trespasser,,Fatality,Struck by on-track equipment,IL,CHRISTIAN,66.0,-89.3,39.53
+6909,UP,September,22,3,0914LA027,Trespasser,,Fatality,"Slipped, fell, stumbled, other",CA,RIVERSIDE,55.0,-116.3,33.76
+6924,CSX,September,23,3,135295,RR Emp on duty,Maint. Equipment & Stores,Fatality,"Collision/impact - auto, truck, bus, van, etc.",OH,RICHLAND,43.0,,
+6927,CSX,September,23,3,135365,Trespasser,,Fatality,Shot,SC,CHARLESTON,57.0,,
+6932,NERR,September,23,2,9232014,Nontrespasser,,Fatality,Highway-rail collision/impact,TN,DAVIDSON,50.0,,
+6943,UP,September,23,2,0914FW016,Nontrespasser,,Fatality,Highway-rail collision/impact,TX,KAUFMAN,62.0,-96.16,32.72
+6948,ATK,September,24,3,134558,Trespasser,,Fatality,Struck by on-track equipment,NH,STRAFFORD,22.0,-70.93,43.13
+6952,BNSF,September,24,3,SW0914109,Trespasser,,Fatality,Struck by on-track equipment,AZ,MOHAVE,50.0,-114.03,35.19
+6967,SDTI,September,24,3,1096498,Nontrespasser,,Fatality,Ran into on-track equipment,CA,SAN DIEGO,50.0,,
+6969,UP,September,24,2,0914LK028,Nontrespasser,,Fatality,Highway-rail collision/impact,LA,BOSSIER,43.0,-93.69,32.91
+6995,BNSF,September,26,3,CA0914113,Trespasser,,Fatality,Struck by on-track equipment,NV,LYON,29.0,-119.28,39.61
+6996,BNSF,September,26,2,MT0914201,Nontrespasser,,Fatality,Highway-rail collision/impact,MT,LINCOLN,66.0,-115.9,48.48
+6997,BNSF,September,26,3,PR0914109,Trespasser,,Fatality,Struck by on-track equipment,CO,BOULDER,,-105.12,39.97
+7000,CSX,September,26,3,135436,Trespasser,,Fatality,Struck by on-track equipment,IN,KNOX,,,
+7007,NS,September,26,2,112337,Trespasser,,Fatality,Highway-rail collision/impact,IN,DELAWARE,23.0,-85.39,40.14
+7023,CSX,September,27,3,135537,Trespasser,,Fatality,Struck by object,PA,ERIE,29.0,,
+7026,MNCW,September,27,3,569,Trespasser,,Fatality,Struck by on-track equipment,CT,FAIRFIELD,,-73.21,41.16
+7028,NS,September,27,3,112443,Trespasser,,Fatality,Struck by on-track equipment,NC,ORANGE,43.0,-79.09,36.06
+7039,NIRC,September,28,3,MRH097,Trespasser,,Fatality,Struck by on-track equipment,IL,LAKE,51.0,-87.84,42.16
+7040,NS,September,28,2,112384,Trespasser,,Fatality,Highway-rail collision/impact,AL,JEFFERSON,57.0,-86.85,33.48
+7042,SEPA,September,28,3,Y1409007,Trespasser,,Fatality,Caught Between Material,PA,PHILADELPHIA,,-75.14,40.03
+7054,CSX,September,29,3,135517,Trespasser,,Fatality,Struck by on-track equipment,KY,JEFFERSON,47.0,,
+7057,IORY,September,29,2,IOR635414G,Nontrespasser,,Fatality,Highway-rail collision/impact,OH,CLINTON,55.0,-83.82,39.44
+7072,UP,September,29,3,0914LA035,Trespasser,,Fatality,Struck by on-track equipment,CA,LOS ANGELES,30.0,-118.07,34.09
+7074,UP,September,29,2,0914ST015,Trespasser,,Fatality,Highway-rail collision/impact,TX,EL PASO,70.0,-106.45,31.77
+7075,UPME,September,29,3,0914CM004,Trespasser,,Fatality,Struck by on-track equipment,IL,COOK,40.0,-87.67,41.99
+7094,LI,September,30,3,TS20140902,Trespasser,,Fatality,Struck by on-track equipment,NY,QUEENS,39.0,-73.9,40.74
+7106,SEPA,September,30,3,Y1409006,Trespasser,,Fatality,Caught Between Material,PA,PHILADELPHIA,,-75.1,40.05
+7125,CSX,October,1,3,135576,Trespasser,,Fatality,Struck by on-track equipment,TN,CARROLL,41.0,,
+7127,CSX,October,1,3,135634,Trespasser,,Fatality,Struck by on-track equipment,PA,DELAWARE,42.0,,
+7129,KCS,October,1,2,14100102,Nontrespasser,,Fatality,Highway-rail collision/impact,LA,GRANT,66.0,,
+7136,NECR,October,1,3,NEC645514T,Trespasser,,Fatality,Other (describe in narrative),VT,WINDSOR,50.0,-72.31,43.64
+7153,ATK,October,2,3,134671,Trespasser,,Fatality,Struck by on-track equipment,CA,ALAMEDA,35.0,-122.13,37.7
+7165,CSX,October,2,3,135684,Trespasser,,Fatality,Struck by on-track equipment,NY,SCHENECTADY,39.0,,
+7166,FEC,October,2,3,T23100214,Trespasser,,Fatality,Struck by on-track equipment,FL,VOLUSIA,26.0,-80.98,29.11
+7177,PNWR,October,2,2,PNW635814G,Trespasser,,Fatality,Highway-rail collision/impact,OR,WASHINGTON,85.0,-122.96,45.34
+7188,CSX,October,3,3,135725,Trespasser,,Fatality,Struck by on-track equipment,VA,YORK,28.0,,
+7209,NS,October,3,2,112453,Nontrespasser,,Fatality,Highway-rail collision/impact,KY,BOONE,52.0,-84.6,38.88
+7221,CSX,October,4,3,135754,Trespasser,,Fatality,Struck by on-track equipment,NC,CUMBERLAND,58.0,,
+7236,UP,October,4,3,1014SA003,Trespasser,,Fatality,Struck by on-track equipment,TX,UVALDE,60.0,-99.47,29.31
+7242,BNSF,October,5,3,NW1014102,Trespasser,,Fatality,Struck by on-track equipment,WA,LEWIS,44.0,-122.95,46.7
+7248,NS,October,5,3,112462,Trespasser,,Fatality,Struck by on-track equipment,IL,IROQUOIS,23.0,-87.97,40.81
+7264,BNSF,October,6,3,GC1014102,Trespasser,,Fatality,Struck by on-track equipment,TX,GUADALUPE,23.0,-98.26,29.55
+7312,UPME,October,7,2,1014CM001,Nontrespasser,,Fatality,Highway-rail collision/impact,IL,LAKE,68.0,-87.81,42.2
+7321,BNSF,October,8,3,PR1014111,RR Emp on duty,"Transp, Train and Engine",Fatality,Caught Between Equipment,CO,EL PASO,42.0,-104.77,38.78
+7325,CSX,October,8,2,135971,Trespasser,,Fatality,Highway-rail collision/impact,NY,ORANGE,51.0,,
+7332,NS,October,8,3,112511,Trespasser,,Fatality,Struck by on-track equipment,GA,WHITFIELD,30.0,-84.97,34.71
+7342,BNSF,October,9,2,MT1014201,Nontrespasser,,Fatality,Highway-rail collision/impact,ND,WILLIAMS,55.0,-103.13,48.35
+7343,BNSF,October,9,2,SF1014202,Nontrespasser,,Fatality,Highway-rail collision/impact,OK,TULSA,58.0,-95.76,36.18
+7360,UP,October,9,2,1014WH007,Nontrespasser,,Fatality,Highway-rail collision/impact,AR,CONWAY,18.0,-92.83,35.21
+7377,CSX,October,10,3,136007,Trespasser,,Fatality,Other (describe in narrative),AL,LIMESTONE,29.0,,
+7379,IC,October,10,3,829132,Trespasser,,Fatality,Struck by on-track equipment,MS,COPIAH,43.0,-90.39,31.85
+7381,IC,October,10,3,829132,Trespasser,,Fatality,Struck by on-track equipment,MS,COPIAH,3.0,-90.39,31.85
+7389,NMRX,October,10,2,10102014,Nontrespasser,,Fatality,Highway-rail collision/impact,NM,BERNALILLO,35.0,-106.66,34.99
+7390,NMRX,October,10,2,10102014,Nontrespasser,,Fatality,Highway-rail collision/impact,NM,BERNALILLO,34.0,-106.66,34.99
+7391,NS,October,10,3,112532,Trespasser,,Fatality,Struck by on-track equipment,SC,GREENVILLE,34.0,-82.78,34.71
+7402,ATK,October,11,3,134822,Trespasser,,Fatality,Struck by on-track equipment,CA,SAN LUIS OBI,,-120.62,34.63
+7429,UP,October,12,2,1014LV004,Trespasser,,Fatality,Highway-rail collision/impact,LA,IBERVILLE,33.0,-91.14,30.16
+7430,UP,October,12,2,1014LV004,Trespasser,,Fatality,Highway-rail collision/impact,LA,IBERVILLE,37.0,-91.14,30.16
+7431,UP,October,12,2,1014LV004,Trespasser,,Fatality,Highway-rail collision/impact,LA,IBERVILLE,25.0,-91.14,30.16
+7437,BNSF,October,13,3,PR1014115,Trespasser,,Fatality,Struck by on-track equipment,WY,CAMPBELL,22.0,-105.51,44.29
+7438,BNSF,October,13,2,TC1014202,Nontrespasser,,Fatality,Highway-rail collision/impact,SD,GRANT,60.0,-96.62,45.22
+7444,CSX,October,13,3,136279,Trespasser,,Fatality,Struck against object,FL,BROWARD,,,
+7452,UP,October,13,3,1014RS007,Trespasser,,Fatality,Struck by on-track equipment,CA,BUTTE,41.0,-121.85,39.72
+7453,UP,October,13,3,1014SL013,Trespasser,,Fatality,Struck by on-track equipment,MO,ST LOUIS,30.0,-90.26,38.6
+7465,NS,October,14,2,112599,Trespasser,,Fatality,Highway-rail collision/impact,NY,CHAUTAUQUA,68.0,-79.48,42.37
+7481,ATK,October,15,3,134842,Trespasser,,Fatality,Struck by on-track equipment,VA,FAIRFAX,,-77.29,38.79
+7497,CSX,October,15,3,136224,Trespasser,,Fatality,Struck by on-track equipment,GA,BARTOW,22.0,,
+7498,CSX,October,15,2,136258,Trespasser,,Fatality,Highway-rail collision/impact,KY,CLARK,97.0,,
+7501,NIRC,October,15,3,RIH110,Trespasser,,Fatality,Struck by on-track equipment,IL,COOK,51.0,-87.85,41.56
+7508,PCMZ,October,15,2,20141015B,Trespasser,,Fatality,Highway-rail collision/impact,CA,SANTA CLARA,,-122.11,37.41
+7570,KCS,October,16,2,14101601,Nontrespasser,,Fatality,Highway-rail collision/impact,TX,FORT BEND,91.0,,
+7593,CSX,October,17,3,136358,Trespasser,,Fatality,Struck by on-track equipment,GA,COBB,16.0,,
+7618,BNSF,October,19,2,TX1014200,Trespasser,,Fatality,Highway-rail collision/impact,OK,OKLAHOMA,20.0,-97.51,35.59
+7621,UP,October,19,3,1014KC012,Trespasser,,Fatality,Struck by on-track equipment,KS,MCPHERSON,36.0,-97.62,38.37
+7628,CSX,October,20,3,136432,Trespasser,,Fatality,Struck by on-track equipment,AL,CULLMAN,31.0,,
+7629,CSX,October,20,3,136462,Trespasser,,Fatality,Struck by on-track equipment,TN,DAVIDSON,35.0,,
+7646,SFRV,October,20,2,102014,Trespasser,,Fatality,Highway-rail collision/impact,FL,BROWARD,53.0,-80.16,26.04
+7650,ATK,October,21,3,134937,Trespasser,,Fatality,Struck by on-track equipment,OR,MARION,13.0,-123.02,44.96
+7659,CSX,October,21,3,136549,Trespasser,,Fatality,Struck by on-track equipment,NY,ULSTER,19.0,,
+7674,UP,October,21,3,1014PD017,Trespasser,,Fatality,Struck by on-track equipment,WA,LEWIS,25.0,-122.98,46.74
+7675,UP,October,21,3,1014PD021,Trespasser,,Fatality,Struck by on-track equipment,OR,MULTNOMAH,32.0,-122.66,45.51
+7683,BNSF,October,22,2,MT1014202,Nontrespasser,,Fatality,Highway-rail collision/impact,ND,MOUNTRAIL,32.0,-102.69,48.34
+7688,LDRR,October,22,3,LDR609614,Trespasser,,Fatality,Struck by on-track equipment,LA,ST MARY,51.0,-91.51,29.79
+7718,ATK,October,23,2,134949,Trespasser,,Fatality,Highway-rail collision/impact,CA,MADERA,44.0,-120.02,36.98
+7734,NS,October,23,3,112749,Trespasser,,Fatality,Struck by on-track equipment,NC,MECKLENBURG,32.0,-80.82,35.23
+7747,CSX,October,24,2,136669,Nontrespasser,,Fatality,Highway-rail collision/impact,KY,HART,21.0,,
+7754,UP,October,24,2,1014FW019,Trespasser,,Fatality,Highway-rail collision/impact,OK,MURRAY,52.0,-97.12,34.5
+7757,ATK,October,25,2,134977,Trespasser,,Fatality,Highway-rail collision/impact,SC,LEXINGTON,24.0,-81.1,33.81
+7759,ATK,October,25,3,134984,Trespasser,,Fatality,Struck by on-track equipment,CA,SOLANO,16.0,-121.74,38.53
+7763,BNSF,October,25,3,NE1014114,Trespasser,,Fatality,Struck by on-track equipment,MO,BUCHANAN,29.0,-94.86,39.71
+7766,CSX,October,25,3,136708,Trespasser,,Fatality,Struck by on-track equipment,NC,UNION,38.0,,
+7777,CSX,October,26,3,136709,Trespasser,,Fatality,Struck by on-track equipment,KY,CHRISTIAN,39.0,,
+7785,NS,October,26,3,112768,Trespasser,,Fatality,Struck by on-track equipment,TN,WASHINGTON,37.0,-82.38,36.3
+7792,ATK,October,27,3,134964,Trespasser,,Fatality,Struck by on-track equipment,CT,NEW HAVEN,27.0,-73.06,41.22
+7797,ATK,October,27,3,134995,Trespasser,,Fatality,Struck by on-track equipment,OR,LINN,19.0,-123.08,44.63
+7798,ATK,October,27,3,134996,Trespasser,,Fatality,Struck by on-track equipment,CA,SAN DIEGO,62.0,-117.34,33.15
+7846,KCS,October,28,3,14102902,Trespasser,,Fatality,Caught in/crushed by materials,TX,CASS,20.0,-94.63,32.99
+7857,NS,October,28,3,112800,Trespasser,,Fatality,Struck by on-track equipment,IN,DUBOIS,44.0,-86.69,38.31
+7860,UP,October,28,3,1014RS019,Trespasser,,Fatality,Struck by on-track equipment,CA,SHASTA,38.0,-122.38,40.54
+7862,ATK,October,29,3,135012,Trespasser,,Fatality,Struck by on-track equipment,CA,ALAMEDA,36.0,-122.2,37.75
+7863,ATK,October,29,3,135027,RR Emp on duty,MOW & Struct.(Only Signal),Fatality,Struck by on-track equipment,NY,DUTCHESS,41.0,-73.91,42.08
+7871,CP,October,29,2,1000138849,Trespasser,,Fatality,Highway-rail collision/impact,WI,MILWAUKEE,65.0,-87.99,43.04
+7879,NECR,October,29,3,NEC645914T,Trespasser,,Fatality,Other (describe in narrative),MA,HAMPSHIRE,38.0,-72.45,42.32
+7885,UP,October,29,2,1014CB017,Nontrespasser,,Fatality,Highway-rail collision/impact,IA,CLINTON,65.0,-90.72,41.82
+7888,WSOR,October,29,3,I756514,Trespasser,,Fatality,Struck by on-track equipment,WI,DANE,,-89.22,42.96
+7899,BNSF,October,30,2,SF1014206,Trespasser,,Fatality,Highway-rail collision/impact,TN,SHELBY,57.0,-90.0,35.1
+7904,CSX,October,30,2,137001,Trespasser,,Fatality,Highway-rail collision/impact,IL,FAYETTE,10.0,,
+7906,CSX,October,30,2,137001,Trespasser,,Fatality,Highway-rail collision/impact,IL,FAYETTE,13.0,,
+7907,CSX,October,30,2,137001,Trespasser,,Fatality,Highway-rail collision/impact,IL,FAYETTE,35.0,,
+7908,CSX,October,30,2,137001,Trespasser,,Fatality,Highway-rail collision/impact,IL,FAYETTE,18.0,,
+7928,ATK,October,31,3,135049,Trespasser,,Fatality,Struck by on-track equipment,CA,VENTURA,52.0,-119.27,34.27
+7929,ATK,October,31,3,135050,Trespasser,,Fatality,Struck by on-track equipment,CA,STANISLAUS,48.0,-121.0,37.63
+7935,BNSF,October,31,3,SF1014112,Trespasser,,Fatality,Struck by on-track equipment,OK,PAWNEE,56.0,-96.8,36.34
+7941,MBTA,October,31,3,1902,Trespasser,,Fatality,Struck by on-track equipment,MA,ESSEX,,-71.15,42.68
+7949,UP,October,31,3,1014UT012,Trespasser,,Fatality,Struck by on-track equipment,NV,ELKO,53.0,-115.49,40.92
+7953,BNSF,November,1,3,CA1114100,Trespasser,,Fatality,Struck by on-track equipment,CA,MERCED,44.0,-120.17,37.17
+7958,BNSF,November,1,3,TX1114101,Trespasser,,Fatality,Struck by on-track equipment,TX,WICHITA,,-98.92,34.03
+7959,CSX,November,1,3,137032,Trespasser,,Fatality,Struck by on-track equipment,IN,DELAWARE,,,
+7965,UP,November,1,3,1114FW005,Trespasser,,Fatality,Struck by on-track equipment,TX,TARRANT,49.0,-97.24,32.73
+7967,ATK,November,2,3,135047,Psgr on trn,,Fatality,Other (describe in narrative),ND,WILLIAMS,,,
+7981,UP,November,2,3,1114FW003,Trespasser,,Fatality,Struck by on-track equipment,TX,TAYLOR,54.0,-99.76,32.45
+7982,UP,November,2,3,1114RS002,Trespasser,,Fatality,Struck by on-track equipment,CA,SANTA CLARA,41.0,-121.55,36.98
+7990,ATK,November,3,3,135095,Trespasser,,Fatality,Struck by on-track equipment,CA,ALAMEDA,55.0,-122.12,37.68
+8017,NJTR,November,4,3,201411641,Trespasser,,Fatality,Struck by on-track equipment,NJ,MONMOUTH,69.0,-74.15,40.41
+8024,PCMZ,November,4,3,20141103E,Trespasser,,Fatality,Struck by on-track equipment,CA,SANTA CLARA,,-122.12,37.41
+8027,UP,November,4,3,1114ST004,Trespasser,,Fatality,Struck by on-track equipment,AZ,MARICOPA,31.0,-111.94,33.43
+8034,CP,November,5,2,1000140669,Trespasser,,Fatality,Highway-rail collision/impact,IA,MONROE,51.0,-92.73,40.92
+8078,UP,November,6,3,1114RS005,Trespasser,,Fatality,Struck by on-track equipment,CA,FRESNO,30.0,-119.91,36.83
+8080,ATK,November,7,2,135134,Nontrespasser,,Fatality,Highway-rail collision/impact,FL,VOLUSIA,40.0,-81.47,29.26
+8089,CSX,November,7,3,137343,Trespasser,,Fatality,Struck by on-track equipment,PA,ERIE,47.0,,
+8106,BNSF,November,8,3,SW1114101,Trespasser,,Fatality,Struck by on-track equipment,AZ,COCONINO,17.0,-111.64,35.19
+8118,NS,November,8,3,112972,Trespasser,,Fatality,Struck by on-track equipment,VA,CAMPBELL,21.0,-79.16,37.44
+8123,BNSF,November,9,3,CA1114104,Trespasser,,Fatality,Struck by on-track equipment,CA,FRESNO,21.0,-119.8,36.78
+8124,BNSF,November,9,2,GC1114201,Trespasser,,Fatality,Highway-rail collision/impact,TX,MONTGOMERY,25.0,-95.31,30.3
+8129,BNSF,November,9,3,PR1114109,Trespasser,,Fatality,Struck by on-track equipment,UT,UTAH,5.0,-111.63,40.11
+8134,LI,November,9,3,TS20141101,Trespasser,,Fatality,Struck by on-track equipment,NY,SUFFOLK,27.0,-73.27,40.88
+8135,MNCW,November,9,3,577,Trespasser,,Fatality,"Electrical shock due to contact with 3rd rail, cat",CT,FAIRFIELD,21.0,-73.58,41.03
+8175,NIRC,November,11,3,MRH104,Trespasser,,Fatality,Struck by on-track equipment,IL,KANE,45.0,-88.31,42.05
+8183,WC,November,11,2,832300,Nontrespasser,,Fatality,Highway-rail collision/impact,MI,MENOMINEE,54.0,,
+8211,BNSF,November,13,3,GC1114105,Trespasser,,Fatality,Struck by on-track equipment,TX,FORT BEND,16.0,-95.74,29.54
+8217,CSX,November,13,3,137525,Trespasser,,Fatality,Other (describe in narrative),IN,GIBSON,33.0,,
+8231,SCRT,November,13,2,11132014,Trespasser,,Fatality,Highway-rail collision/impact,CA,SACRAMENTO,15.0,-121.3,38.58
+8241,BNSF,November,14,2,KS1114200,Nontrespasser,,Fatality,Highway-rail collision/impact,TX,GARZA,26.0,-101.55,33.37
+8255,SFRV,November,14,2,111414,Trespasser,,Fatality,Highway-rail collision/impact,FL,BROWARD,,-80.14,26.2
+8256,UP,November,14,3,1114PR014,Trespasser,,Fatality,Burned,IL,WINNEBAGO,40.0,-89.1,42.26
+8257,UP,November,14,3,1114PR014,Trespasser,,Fatality,Burned,IL,WINNEBAGO,38.0,-89.1,42.26
+8258,UP,November,14,3,1114PR014,Trespasser,,Fatality,Burned,IL,WINNEBAGO,31.0,-89.1,42.26
+8264,BNSF,November,15,3,CH1114111,Trespasser,,Fatality,Struck by on-track equipment,IL,COOK,23.0,-88.0,41.67
+8279,CSX,November,16,3,137720,Trespasser,,Fatality,Struck by on-track equipment,FL,POLK,26.0,,
+8285,UP,November,16,3,1114FW015,Trespasser,,Fatality,Struck by on-track equipment,TX,WARD,28.0,-102.92,31.58
+8290,ATK,November,17,3,135244,Trespasser,,Fatality,Struck by on-track equipment,FL,HILLSBOROUGH,65.0,-82.41,27.95
+8300,CSX,November,17,3,137626,Trespasser,,Fatality,Struck by on-track equipment,MS,JACKSON,40.0,,
+8303,MNCW,November,17,3,579,Trespasser,,Fatality,Struck by on-track equipment,CT,FAIRFIELD,39.0,-73.42,41.08
+8315,ATK,November,18,2,135262,Trespasser,,Fatality,Highway-rail collision/impact,MI,KALAMAZOO,21.0,-85.65,42.27
+8316,ATK,November,18,2,135262,Trespasser,,Fatality,Highway-rail collision/impact,MI,KALAMAZOO,20.0,-85.65,42.27
+8317,ATK,November,18,2,135262,Trespasser,,Fatality,Highway-rail collision/impact,MI,KALAMAZOO,19.0,-85.65,42.27
+8318,ATK,November,18,3,135266,Trespasser,,Fatality,Struck by on-track equipment,TX,DALLAS,24.0,-96.59,32.76
+8330,CP,November,18,3,1000144461,Trespasser,,Fatality,Struck by on-track equipment,MI,WAYNE,47.0,-83.12,42.3
+8332,CSX,November,18,3,137832,Trespasser,,Fatality,Struck by on-track equipment,VA,CHESTERFIELD,55.0,,
+8347,UP,November,18,3,1114LA014,Trespasser,,Fatality,"Slipped, fell, stumbled, other",CA,ORANGE,43.0,-118.0,33.86
+8382,ATK,November,20,3,135369,Trespasser,,Fatality,Struck by on-track equipment,MI,WAYNE,35.0,-83.42,42.27
+8392,LI,November,20,3,TS20141103,Trespasser,,Fatality,Struck by on-track equipment,NY,NASSAU,53.0,-73.46,40.73
+8418,NS,November,21,3,113127,Trespasser,,Fatality,Struck by on-track equipment,AL,DALLAS,52.0,-87.01,32.41
+8427,BNSF,November,22,3,CA1114112,Trespasser,,Fatality,Struck by on-track equipment,CA,RIVERSIDE,24.0,-117.44,33.9
+8429,CP,November,22,2,1000146579,Nontrespasser,,Fatality,Highway-rail collision/impact,MN,KANDIYOHI,52.0,-94.54,45.45
+8430,CP,November,22,2,1000146579,Nontrespasser,,Fatality,Highway-rail collision/impact,MN,KANDIYOHI,23.0,-94.54,45.45
+8434,LI,November,22,3,TS20141104,Trespasser,,Fatality,Struck by on-track equipment,NY,SUFFOLK,17.0,-73.35,40.69
+8438,NS,November,22,3,113228,Trespasser,,Fatality,Struck by on-track equipment,OH,FRANKLIN,53.0,-83.01,39.96
+8442,ATK,November,23,2,135330,Trespasser,,Fatality,Highway-rail collision/impact,MI,WAYNE,12.0,-83.36,42.28
+8448,NJTR,November,23,3,201411673,Trespasser,,Fatality,Struck by on-track equipment,NJ,BERGEN,,-74.02,40.97
+8461,BNSF,November,24,2,CH1114200,Trespasser,,Fatality,Highway-rail collision/impact,WI,BUFFALO,32.0,-91.76,44.16
+8469,FEC,November,24,3,T26112414,Trespasser,,Fatality,Struck by on-track equipment,FL,BROWARD,,-80.14,26.0
+8478,NS,November,24,3,113336,Trespasser,,Fatality,Struck by on-track equipment,GA,HARALSON,77.0,-85.14,33.72
+8482,UP,November,24,2,1114PD016,Nontrespasser,,Fatality,Highway-rail collision/impact,OR,LANE,35.0,-123.1,44.05
+8486,ATK,November,25,3,135370,Trespasser,,Fatality,Struck by on-track equipment,CA,CONTRA COSTA,29.0,-122.14,38.02
+8487,ATK,November,25,2,135389,Nontrespasser,,Fatality,Highway-rail collision/impact,TX,WILLIAMSON,55.0,-97.43,30.77
+8498,NS,November,25,3,113261,Trespasser,,Fatality,Struck by on-track equipment,NC,MECKLENBURG,61.0,-80.84,35.41
+8501,UP,November,25,3,1114LA015,Trespasser,,Fatality,Struck by on-track equipment,CA,KERN,30.0,-118.16,34.85
+8505,CC,November,26,3,833582,Trespasser,,Fatality,Struck by on-track equipment,IA,DUBUQUE,62.0,-91.07,42.46
+8520,SFRV,November,26,3,112614,Trespasser,,Fatality,Other (describe in narrative),FL,BROWARD,,-117.85,33.78
+8525,ATK,November,27,3,135371,Trespasser,,Fatality,Struck by on-track equipment,CA,SAN JOAQUIN,21.0,-121.27,38.1
+8530,NJTR,November,27,3,201412689,Trespasser,,Fatality,Struck by on-track equipment,NJ,ESSEX,57.0,-74.16,40.73
+8538,BNSF,November,28,3,CA1114117,Trespasser,,Fatality,Struck by on-track equipment,CA,SAN BERNARDI,,-117.32,34.14
+8548,BNSF,November,29,2,CA1114203,Trespasser,,Fatality,Highway-rail collision/impact,CA,CONTRA COSTA,52.0,-121.69,37.99
+8551,CSX,November,29,3,138251,Trespasser,,Fatality,Struck by object,PA,ERIE,25.0,,
+8557,ATK,November,30,3,135382,Trespasser,,Fatality,Struck by on-track equipment,PA,BEDFORD,16.0,-78.77,39.65
+8567,LI,November,30,3,TS20141105,Trespasser,,Fatality,Struck by on-track equipment,NY,SUFFOLK,50.0,-72.96,40.77
+8594,ATK,December,2,2,135402,Trespasser,,Fatality,Highway-rail collision/impact,WA,SKAGIT,28.0,-122.33,48.43
+8596,BNSF,December,2,2,CA1214200,Trespasser,,Fatality,Highway-rail collision/impact,CA,KINGS,86.0,-119.65,36.33
+8609,NJTR,December,2,3,201412687,Trespasser,,Fatality,Struck by on-track equipment,NJ,BERGEN,22.0,-74.1,40.82
+8626,CC,December,3,2,834267,Nontrespasser,,Fatality,Highway-rail collision/impact,IL,WINNEBAGO,61.0,-89.24,42.24
+8628,CSX,December,3,2,138285,Trespasser,,Fatality,Highway-rail collision/impact,SC,COLLETON,69.0,,
+8687,BNSF,December,5,2,NW1214201,Trespasser,,Fatality,Highway-rail collision/impact,WA,KING,31.0,-122.33,47.58
+8690,BNSF,December,5,2,SF1214200,Nontrespasser,,Fatality,Highway-rail collision/impact,OK,OTTAWA,16.0,-94.92,36.71
+8693,CSX,December,5,2,138442,Nontrespasser,,Fatality,Highway-rail collision/impact,AL,JEFFERSON,67.0,,
+8698,IC,December,5,3,834437,Trespasser,,Fatality,Struck by on-track equipment,TN,SHELBY,56.0,-89.99,35.11
+8717,GNBC,December,6,2,G12062014,Nontrespasser,,Fatality,Highway-rail collision/impact,OK,BLAINE,53.0,,
+8734,CSX,December,7,3,138492,Trespasser,,Fatality,Struck by on-track equipment,NC,LINCOLN,53.0,,
+8741,UP,December,7,2,1214LV005,Trespasser,,Fatality,Highway-rail collision/impact,LA,POINTE COUPE,17.0,-91.53,30.5
+8743,UP,December,7,3,1214SA001,Trespasser,,Fatality,Struck by on-track equipment,TX,TRAVIS,21.0,-97.75,30.25
+8750,CP,December,8,2,1000151113,Trespasser,,Fatality,Highway-rail collision/impact,WI,WAUKESHA,38.0,-88.49,43.1
+8765,SCRT,December,8,2,12082014,Trespasser,,Fatality,Highway-rail collision/impact,CA,SACRAMENTO,32.0,-121.31,38.58
+8766,SDTI,December,8,2,20141208,Nontrespasser,,Fatality,Highway-rail collision/impact,CA,SAN DIEGO,50.0,,
+8790,UP,December,9,2,1214UT002,Nontrespasser,,Fatality,Highway-rail collision/impact,UT,DAVIS,23.0,-111.9,40.87
+8804,MBTA,December,10,3,1925,Trespasser,,Fatality,Struck by on-track equipment,MA,ESSEX,,-70.7,42.61
+8815,UP,December,10,3,1214HO020,Trespasser,,Fatality,Struck by on-track equipment,TX,WILLACY,56.0,-97.79,26.36
+8817,UP,December,10,2,1214PC004,Nontrespasser,,Fatality,Highway-rail collision/impact,ID,BINGHAM,18.0,-112.1,43.4
+8818,UP,December,10,3,1214RS012,Trespasser,,Fatality,Struck by on-track equipment,CA,SACRAMENTO,40.0,-121.4,38.63
+8849,BNSF,December,12,3,NW1214108,Trespasser,,Fatality,Struck by on-track equipment,WA,COWLITZ,50.0,-122.81,45.96
+8851,CSX,December,12,3,138803,Trespasser,,Fatality,Struck by on-track equipment,KY,HENRY,38.0,,
+8873,BNSF,December,13,2,MT1214201,Nontrespasser,,Fatality,Highway-rail collision/impact,ND,MORTON,77.0,-101.15,46.82
+8874,BNSF,December,13,3,TX1214103,Trespasser,,Fatality,Struck by on-track equipment,TX,TARRANT,28.0,-97.34,32.69
+8880,LI,December,13,3,P20141216,Psgr on trn,,Fatality,"Slipped, fell, stumbled, other",NY,NEW YORK,66.0,,
+8882,MBTA,December,13,3,1932,Trespasser,,Fatality,Struck by on-track equipment,MA,BRISTOL,44.0,-71.28,41.94
+8898,CP,December,14,2,1000153445,Nontrespasser,,Fatality,Highway-rail collision/impact,MN,MAHNOMEN,45.0,-95.96,47.29
+8900,NS,December,14,2,113437,Trespasser,,Fatality,Highway-rail collision/impact,DE,KENT,37.0,-75.56,39.11
+8914,FEC,December,15,3,T27121514,Trespasser,,Fatality,Struck by on-track equipment,FL,PALM BEACH,17.0,-80.05,26.62
+8915,KCS,December,15,2,14121501,Nontrespasser,,Fatality,Highway-rail collision/impact,TX,JIM HOGG,48.0,,
+8916,MACZ,December,15,3,141250610,Trespasser,,Fatality,Struck by on-track equipment,MD,PRINCE GEORG,,-76.88,39.06
+8930,ATK,December,16,2,135586,Trespasser,,Fatality,Highway-rail collision/impact,NC,ALAMANCE,80.0,-79.26,36.09
+8933,CSX,December,16,3,138980,Trespasser,,Fatality,"Caught, crushed, pinched, other",IN,MARION,50.0,,
+8941,UP,December,16,3,1214CT003,Contractor,,Fatality,"Slipped, fell, stumbled, other",CA,RIVERSIDE,58.0,-117.52,34.01
+8948,UP,December,16,3,1214RS015,Trespasser,,Fatality,Struck by on-track equipment,CA,SANTA CLARA,29.0,-121.81,37.26
+8957,CSX,December,17,2,139025,Trespasser,,Fatality,Highway-rail collision/impact,PA,DELAWARE,21.0,,
+8969,MNCW,December,17,3,586,Nontrespasser,,Fatality,Lost balance,NY,NEW YORK,62.0,,
+8975,PCMZ,December,17,3,20141217C,Trespasser,,Fatality,Struck by on-track equipment,CA,SANTA CLARA,,-121.82,37.26
+9004,NS,December,18,3,113805,Trespasser,,Fatality,Struck by on-track equipment,GA,FULTON,60.0,-84.4,33.74
+9016,ATK,December,19,3,135699,Trespasser,,Fatality,Struck by on-track equipment,CA,LOS ANGELES,25.0,-118.07,33.98
+9018,NIRC,December,19,3,RIH124,Trespasser,,Fatality,Struck by on-track equipment,IL,COOK,23.0,-87.73,41.6
+9023,PCMZ,December,19,3,20141219A,Trespasser,,Fatality,Struck by on-track equipment,CA,SANTA CLARA,,-122.05,37.38
+9024,UP,December,19,3,1214HO043,Trespasser,,Fatality,Struck by on-track equipment,TX,CAMERON,22.0,-97.63,26.13
+9044,BNSF,December,21,3,CA1214111,Trespasser,,Fatality,Struck against object,CA,KERN,4.0,-119.33,35.69
+9054,UP,December,21,3,1214KC013,Trespasser,,Fatality,Struck by on-track equipment,KS,DOUGLAS,35.0,-95.22,38.97
+9066,CSX,December,22,3,139227,Trespasser,,Fatality,Struck by on-track equipment,PA,PHILADELPHIA,56.0,,
+9068,IC,December,22,3,835898,Trespasser,,Fatality,Struck by on-track equipment,MS,FORREST,32.0,-89.21,31.24
+9079,SFRV,December,22,3,122214,Trespasser,,Fatality,Struck by on-track equipment,FL,PALM BEACH,,-80.09,26.44
+9094,LI,December,23,3,TS20141201,Trespasser,,Fatality,Struck by on-track equipment,NY,SUFFOLK,34.0,-72.68,40.91
+9100,SLWC,December,23,2,X533214,Nontrespasser,,Fatality,Highway-rail collision/impact,OK,OKLAHOMA,34.0,,
+9118,ATK,December,26,2,135835,Trespasser,,Fatality,Highway-rail collision/impact,WA,KING,41.0,-122.23,47.3
+9121,NS,December,26,3,113586,Trespasser,,Fatality,Struck by on-track equipment,PA,HUNTINGDON,40.0,-77.96,40.45
+9130,CSX,December,27,3,139310,Trespasser,,Fatality,Struck by on-track equipment,NC,RICHMOND,35.0,,
+9144,ATK,December,28,3,135713,Trespasser,,Fatality,Struck by on-track equipment,CA,KINGS,17.0,-119.55,36.09
+9145,ATK,December,28,3,135714,Trespasser,,Fatality,Struck by on-track equipment,CA,FRESNO,22.0,-119.81,36.75
+9148,BNSF,December,28,3,CH1214112,Trespasser,,Fatality,Struck by on-track equipment,IL,DU PAGE,20.0,-88.11,41.78
+9153,UP,December,28,3,1214LV016,Trespasser,,Fatality,Struck by on-track equipment,LA,CADDO,44.0,-93.69,32.4
+9154,ATK,December,29,3,135715,Trespasser,,Fatality,Struck by on-track equipment,CA,VENTURA,,-119.19,34.24
+9168,UP,December,29,2,1214SA014,Nontrespasser,,Fatality,Highway-rail collision/impact,TX,LA SALLE,42.0,-99.18,28.6
+9183,IC,December,30,2,836430,Trespasser,,Fatality,Highway-rail collision/impact,LA,TANGIPAHOA,59.0,-90.46,30.5
+9201,BNSF,December,31,2,SF1214204,Trespasser,,Fatality,Highway-rail collision/impact,TN,SHELBY,53.0,-89.99,35.1
+9204,CN,December,31,2,836595,Nontrespasser,,Fatality,Highway-rail collision/impact,MN,ROSEAU,35.0,-95.31,48.9
+9205,CN,December,31,2,836595,Nontrespasser,,Fatality,Highway-rail collision/impact,MN,ROSEAU,33.0,-95.31,48.9
+9211,NJTR,December,31,3,201501005,Trespasser,,Fatality,Struck by on-track equipment,NJ,BERGEN,52.0,-74.04,40.88
